@@ -520,7 +520,7 @@ For more info check the message you received from your carrier"</string>
     <string name="signal_exception_summary">"Impossibile connettersi alla rete in questa zona."</string>
     <string name="usbsharenet_exception_title">Test condivisione internet attraverso USB</string>
     <string name="usbsharenet_exception_summary">"Impossibile connettersi ad internet attraverso connessione USB condivisa. Controlla la connessione del dispositivo USB e riavvia Mi PC Suite."</string>
-    <string name="usbsharenet_pc_exception_summary">"impossibile connettersi ad internet attraverso connessione USB condivisa. Controlla la connessione internet del tuo computer."</string>
+    <string name="usbsharenet_pc_exception_summary">"Impossibile connettersi ad internet attraverso connessione USB condivisa. Controlla la connessione internet del tuo computer."</string>
     <string name="gateway_exception_title">Test router</string>
     <string name="gateway_exception_summary">Controlla il tuo router e prova di nuovo.</string>
     <string name="gateway_exception_summary2">"Impossibile connettersi al server"</string>
