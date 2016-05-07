@@ -35,7 +35,7 @@
     <string name="main_alert_message_no_imsi">Nessuna SIM rilevata</string>
     <string name="main_alert_message_slot_no_data_connection">"Lo slot SIM non supporta
 una connessione dati mobile"</string>
-    <string name="main_primary_message_traffic_enough">Sotto il imite di utilizzo dati</string>
+    <string name="main_primary_message_traffic_enough">Sotto il limite di utilizzo dati</string>
     <string name="main_primary_message_traffic_warning">Vicino al limite di utilizzo dati</string>
     <string name="main_primary_message_traffic_overlimit">Limite di utilizzo dati superato</string>
     <string name="main_primary_message_traffic_overlimit_purchase">Devi ricaricare</string>
@@ -126,7 +126,7 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="pref_daily_adjust">Imposta limite soglia dati</string>
     <string name="pref_free_adjust">Imposta disattivazione limite dati</string>
     <string name="pref_specified_adjust">Imposta soglia dati personalizzata</string>
-    <string name="pref_automatic_adjust">Sincroniza utilizzo dati</string>
+    <string name="pref_automatic_adjust">Sincronizza utilizzo dati</string>
     <string name="pref_open_adjust_traffic">Aggiorna utilizzo dati ogni giorno utilizzando le statistiche del tuo operatore</string>
     <string name="pref_auto_adjust_traffic">Sincronizza automaticamente le statistiche di utilizzo dati</string>
     <string name="pref_auto_adjust_settings">Impostazioni di sincronizzazione automatica di utilizzo dei dati</string>
@@ -197,9 +197,9 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="data_usage_warning_body">Tocca per mostrare i dettagli di utilizzo dati.</string>
     <string name="data_usage_mobile_limit_title">Limite utilizzo dati raggiunto</string>
     <string name="data_usage_limit_body">Tocca per attivare i dati mobili.</string>
-    <string name="data_usage_disabled_dialog">"Hai raggiunto il limite previsto dal tuo piano dati. If you go over your limit, your carrier may charge you additional fees."</string>
+    <string name="data_usage_disabled_dialog">"Hai raggiunto il limite previsto dal tuo piano dati. Superato questo limite l'operatore potrebbe addebitartene i costi."</string>
     <string name="data_usage_disabled_dialog_enable">Attiva i dati</string>
-    <string name="data_usage_mobile_limit_snoozed_title">Soglia dati sueprata</string>
+    <string name="data_usage_mobile_limit_snoozed_title">Soglia dati superata</string>
     <string name="data_usage_limit_snoozed_body">Limite dati superato per questo mese.</string>
     <string name="data_usage_restricted_title">Dati in background limitati</string>
     <string name="data_usage_restricted_body">Tocca per attivare i dati in background.</string>
@@ -347,7 +347,7 @@ For more info check the message you received from your carrier"</string>
     <string name="pref_traffic_saving_whitelist">Eccezioni</string>
     <string name="pref_traffic_saving_whitelist_hint">"Non limitare l'utilizzo dei dati per le applicazioni selezionate"</string>
     <string name="pref_traffic_saving_issue">FAQ</string>
-    <string name="pref_traffic_saving_issue_content">"<b> 1. Il Risparmio dati avrà effetti sulla mia privacy? </b><br /><br /><br />No. I tuoi dati rimarranno privati e non verranno condivisi con terze parti. <br /><br /><br /><b> 2. Perché il Risparmio Dati non funziona? </b><br /><br /> Risparmio Dati si attiva solo quando utilizzi la rete del tuooepratore per inviare o scaricare contenuti."</string>
+    <string name="pref_traffic_saving_issue_content">"<b> 1. Il Risparmio dati avrà effetti sulla mia privacy? </b><br /><br /><br />No. I tuoi dati rimarranno privati e non verranno condivisi con terze parti. <br /><br /><br /><b> 2. Perché il Risparmio Dati non funziona? </b><br /><br /> Risparmio Dati si attiva solo quando utilizzi la rete del tuo operatore per inviare o scaricare contenuti."</string>
     <string name="traffic_saving_whitelist_btn_add_app">Aggiungi</string>
     <string name="traffic_saving_whitelist_btn_add">Aggiungi</string>
     <string name="traffic_saving_whitelist_btn_added">Aggiunto</string>
@@ -393,7 +393,7 @@ For more info check the message you received from your carrier"</string>
     <string name="show_traffic_dialog_title">Mostra utilizzo nel pannello delle notifiche</string>
     <string name="show_traffic_dialog_message">Le informazioni di utilizzo dato verranno mostrate nel pannello delle notifiche. Puoi attivare o disattivare questa funzione in Utilizzo dati > Impostazioni</string>
     <string name="tc_sms_report_title">Segnala bug utilizzo dati</string>
-    <string name="tc_sms_report_summary">Aiutaci a migliorare questa funzione inviandoci un rapporto quando le informazioni sul tuo traffico dati non sono correttte o non si aggiornano</string>
+    <string name="tc_sms_report_summary">Aiutaci a migliorare questa funzione inviandoci un rapporto quando le informazioni sul tuo traffico dati non sono corrette o non si aggiornano</string>
     <string name="tc_sms_report_direction">Codice richiesta SMS</string>
     <string name="tc_sms_report_send_num">Numero operatore #</string>
     <string name="tc_sms_report_receive_num">numero destinatario</string>
@@ -446,9 +446,9 @@ For more info check the message you received from your carrier"</string>
     <string name="roaming_start_title">Roaming estero</string>
     <string name="roaming_start_body">Tocca per visualizzare le eccezioni di dati roaming.</string>
     <string name="dialog_app_roaming_title">Roaming estero non è attivo per %1$s</string>
-    <string name="dialog_app_roaming_message">"%1$s can't use mobile data when roaming. When you're roaming overseas, only apps you've added to exceptions can use mobile data."</string>
+    <string name="dialog_app_roaming_message">"%1$s non può usare la connessione dati durante il roaming. Quando usi il roaming all\'estero, solo le app che hai aggiunto alle eccezioni potranno usare la connessione dati."/string>
     <string name="add_miservice_dialog_title">MIUI service framework</string>
-    <string name="add_miservice_dialog_content">"%s requires you to add MIUI service framework to the exceptions list. You may receive notifications from MIUI's built-in apps and other third-party apps."</string>
+    <string name="add_miservice_dialog_content">"%s richiede l\'aggiunta di MIUI services framework alla lista delle eccezioni. Potresti ricevere notifiche dalle app MIUI di sistema e da quelle di terze parti."</string>
     <string name="pref_roaming_daily_limit_setting_cat_title">Limite dati giornaliero</string>
     <string name="pref_roaming_daily_limit_setting">Imposta limite dati giornaliero quando sei in roaming</string>
     <string name="dialog_roaming_apps_sorted_title">Ordina per</string>
@@ -456,8 +456,8 @@ For more info check the message you received from your carrier"</string>
     <string name="hints_install_apps_today">Utilizzato oggi</string>
     <string name="mian_page_primary_txt">Roaming estero</string>
     <string name="hints_input_roaming_daily_limit">Inserisci limite utilizzo dati</string>
-    <string name="roaming_limit_notification_title">Limite giornaliero di dati roaming  raggiunto</string>
-    <string name="roaming_limit_warning_notification_body">"Tocca per visualizzare l'utilizzzo dati."</string>
+    <string name="roaming_limit_notification_title">Limite giornaliero di dati roaming raggiunto</string>
+    <string name="roaming_limit_warning_notification_body">"Tocca per visualizzare l'utilizzo dati."</string>
     <string name="roaming_limit_network_notification_body">Tocca per visualizzare le reti disponibili</string>
     <string name="roaming_limit_dialog_message">Limite di dati giornaliero in roaming raggiunto.</string>
     <string name="search_input_txt_na">"<font color="#ff0000">%s</font>"</string>
@@ -490,7 +490,7 @@ For more info check the message you received from your carrier"</string>
     <string name="traffic_warning_purchase_title">Avviso utilizzo dati mobili</string>
     <string name="traffic_purchase_body">Tocca per ricaricare.</string>
     <string name="traffic_purchse_suggestion">Ricarica dati rete mobile</string>
-    <string name="traffic_over_purchase_title">Limite dati sueprato</string>
+    <string name="traffic_over_purchase_title">Limite dati superato</string>
     <string name="traffic_over_purchase_body">Tocca per vedere i dettagli.</string>
     <string name="traffic_over_purchase_link">"Hai raggiunto il limte del tuo piano dati<br/>Se superi il limite del tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi.<br/><br/><font color='#ccffffff'><U>Tocca per ricaricare.</U></font>"</string>
     <string name="repair_loading_text">Solo un attimo…</string>
@@ -502,42 +502,42 @@ For more info check the message you received from your carrier"</string>
     <string name="main_toolbar_internet_by_wifi">Wi-Fi</string>
     <string name="main_toolbar_internet_by_mobiledata">Dati mobili</string>
     <string name="connect_internet_by_usbshare">Connessione condivisa tramite USB</string>
-    <string name="connect_internet_by_mobiledata">Mobile data connection</string>
+    <string name="connect_internet_by_mobiledata">Connessione dati</string>
     <string name="connect_internet_by_wifi">Wi-Fi</string>
-    <string name="unable_connect_internet">No internet connection</string>
-    <string name="enable_network">Turn network on first</string>
-    <string name="disable_air_mode">Turn Airplane mode off first</string>
-    <string name="repair">Repair</string>
-    <string name="check_network_state">Test network</string>
-    <string name="current_network_state_not_need_diagnose">Internet connection is normal.</string>
-    <string name="apn_exception_title">Check APN configurations</string>
-    <string name="apn_exception_summary">"Test carrier's Access Point Name configurations"</string>
-    <string name="dns_exception_title">Check DNS settings</string>
-    <string name="dns_exception_summary">"Check router's DNS settings"</string>
-    <string name="wifi_exception_title">Test WLAN network</string>
-    <string name="wifi_exception_summary">Test available WLAN networks</string>
-    <string name="signal_exception_title">Test signal strength</string>
-    <string name="signal_exception_summary">"Can't connect to network in this area."</string>
-    <string name="usbsharenet_exception_title">Test shared internet over USB</string>
-    <string name="usbsharenet_exception_summary">"Can't connect to the internet using shared USB connection. Check your device's USB connection and restart Mi PC Suite."</string>
-    <string name="usbsharenet_pc_exception_summary">"Can't connect to the internet using shared USB connection. Check your computer's internet connection."</string>
+    <string name="unable_connect_internet">Nessuna connessione internet</string>
+    <string name="enable_network">Abilita la rete prima</string>
+    <string name="disable_air_mode">Disabilita modalità aerea prima</string>
+    <string name="repair">Ripara</string>
+    <string name="check_network_state">Test rete</string>
+    <string name="current_network_state_not_need_diagnose">La connessione internet è regolare.</string>
+    <string name="apn_exception_title">Controlla impostazioni APN</string>
+    <string name="apn_exception_summary">"Testa le impostazioni degli APN"</string>
+    <string name="dns_exception_title">Controlla impostazioni DNS</string>
+    <string name="dns_exception_summary">"Controlla le impostazioni DNS del router"</string>
+    <string name="wifi_exception_title">Test rete WLAN</string>
+    <string name="wifi_exception_summary">Testa le reti WLAN disponibili</string>
+    <string name="signal_exception_title">Test forza segnale</string>
+    <string name="signal_exception_summary">"Impossibile connettersi alla rete in questa zona."</string>
+    <string name="usbsharenet_exception_title">Test condivisione internet attraverso USB</string>
+    <string name="usbsharenet_exception_summary">"Impossibile connettersi ad internet attraverso connessione USB condivisa. Controlla la connessione del dispositivo USB e riavvia Mi PC Suite."</string>
+    <string name="usbsharenet_pc_exception_summary">"impossibile connettersi ad internet attraverso connessione USB condivisa. Controlla la connessione internet del tuo computer."</string>
     <string name="gateway_exception_title">Test router</string>
-    <string name="gateway_exception_summary">Check your router and try again.</string>
-    <string name="gateway_exception_summary2">"Can't connect to the server"</string>
-    <string name="other_exception_title">Checking for other issues</string>
-    <string name="other_exception_summary">"You don't have an internet connection"</string>
-    <string name="see_detail">Details</string>
-    <string name="choose">Choose</string>
-    <string name="pay_charge">Purchase additional data</string>
-    <string name="replace_dns">Replace DNS automatically</string>
-    <string name="load_fail">"Couldn't load"</string>
+    <string name="gateway_exception_summary">Controlla il tuo router e prova di nuovo.</string>
+    <string name="gateway_exception_summary2">"Impossibile connettersi al server"</string>
+    <string name="other_exception_title">In cerca di altri problemi</string>
+    <string name="other_exception_summary">"Non hai una connessione internet"</string>
+    <string name="see_detail">Dettagli/string>
+    <string name="choose">Scegli</string>
+    <string name="pay_charge">Compra traffico dati</string>
+    <string name="replace_dns">Rimpiazza DNS automaticamente</string>
+    <string name="load_fail">"Impossibile caricare"</string>
     <string name="notify_weekly_traffic_title">Usati %s questa settimana</string>
     <string name="notify_weekly_traffic_title_for_slotnum">%1$s usati %2$s questa settimana</string>
-    <string name="notify_weekly_traffic_body">To limit data usage automatically, set up your monthly data plan.</string>
-    <string name="notify_daily_data_usage_body">To limit data usage automatically, set up your monthly data plan.</string>
+    <string name="notify_weekly_traffic_body">Per limitare l\'uso dei dati automaticamente imposta il tuo piano dati mensile.</string>
+    <string name="notify_daily_data_usage_body">Per limitare l\'uso dei dati automaticamente imposta il tuo piano dati mensile.</string>
     <string name="notify_month_traffic_title">Usati %s questo mese</string>
     <string name="notify_month_traffic_title_for_slotnum">%1$s usati %2$s questo mese</string>
-    <string name="notify_month_traffic_body">Set a data usage limit to prevent going over your monthly data plan.</string>
+    <string name="notify_month_traffic_body">Imposta un limite di uso dati per evitare di sforare il tuo piano dati mensile.</string>
     <string name="notify_daily_limit_title">Usati %s oggi</string>
     <string name="notify_daily_limit_title_for_slotnum">%1$s usati %2$s oggi</string>
     <string name="notify_daily_limit_body">Tocca per impostare il limite dati.</string>
@@ -545,100 +545,100 @@ For more info check the message you received from your carrier"</string>
     <string name="network_blocked_switch_wifi">Scegli le reti</string>
     <string name="wifi_network_blocked_notification_title">Nessuna connessione internet</string>
     <string name="data_network_blocked_notification_title">Nessuna connessione internet</string>
-    <string name="sim_state_exception_summary">SIM status indicates something may be wrong with your SIM card.</string>
-    <string name="network_operator_exception_summary">"Couldn't activate SIM card. Make sure your SIM card is inserted properly and that your mobile plan has been activated by your carrier."</string>
-    <string name="network_blocked_connected_open_wifi">Connected to public network</string>
+    <string name="sim_state_exception_summary">Lo stato della SIM indica che potrebbero esserci problemi con la tua SIM card.</string>
+    <string name="network_operator_exception_summary">"Impossibile attivare la SIM card. Assicurati che la tua SIM card sia inserita correttamente e che il tuo piano dati sia stato attivato dal tuo operatore."</string>
+    <string name="network_blocked_connected_open_wifi">Connesso ad una rete pubblica</string>
     <string name="network_connected_exception_title">Testa la rete</string>
-    <string name="protocol_exception_title">Network protocol diagnostics</string>
-    <string name="protocol_loop_back_exception_summary">Local loop back test failed. To report this issue to MIUI, go to the Report Bug app and send a log from your device.</string>
-    <string name="ip_address_exception_summary">"Couldn't get IP address. If you run into this issue again, try using a static IP address."</string>
-    <string name="local_ip_exception_summary">"Couldn't get local IP address. To report this issue to MIUI, go to the Report Bug app and send a log from your device."</string>
-    <string name="renew_ip">Retry</string>
-    <string name="network_permission_exception_tips">"Can't use mobile data to connect to the network"</string>
-    <string name="open_now">Allow app to use mobile data</string>
-    <string name="network_roaming_exception_tips">"Can't use mobile data while roaming to connect to the network."</string>
-    <string name="network_mobile_exception_detail">"Your device can't connect to the internet:
+    <string name="protocol_exception_title">Diagnostica protocolli di rete</string>
+    <string name="protocol_loop_back_exception_summary">Test local loop back fallito. Per riportare questo problema a MIUI, vai nella app di segnalazion ed invia un log dal tuo dispositivo.</string>
+    <string name="ip_address_exception_summary">"Impossibile ottenere l\'indirizzo IP. Se questo succede di nuovo considera l\'uso di un indirizzo IP statico."</string>
+    <string name="local_ip_exception_summary">"Impossibile ottenere l\'indirizzo IP. Se questo succede di nuovo considera l\'uso di un indirizzo IP statico."</string>
+    <string name="renew_ip">Riprova</string>
+    <string name="network_permission_exception_tips">"Impossibile usare la connessione dati per connetters alla rete"</string>
+    <string name="open_now">Consenti alle app di usare la connessione dati</string>
+    <string name="network_roaming_exception_tips">"Impossibile usare la connessione dati durante il roaming per connettersi alla rete."</string>
+    <string name="network_mobile_exception_detail">"Il tuo dispositivo non può connettersi ad internet:
 
- 1. Make sure you haven't exceeded your carrier's plan's mobile data limit.
+ 1. Assicurati di non aver sforato i limiti del tuo piano dati.
 
- 2. If you just topped up your device's balance, reboot your device and try again.
+ 2. Se hai appena ricaricato il credito telefonico, riavvia e prova ancora.
 
- 3. Your carrier's network's signal may be weak in your current location."</string>
-    <string name="network_sim_exception_detail">"There may be a problem with your SIM card:
+ 3. Il segnale del tuo operatore potrebbe essere debole nella zona in cui ti trovi."</string>
+    <string name="network_sim_exception_detail">"Potrebbe esserci qualche problema con la SIM card:
 
- 1. Make sure your account is in good standing with your carrier. Try using a friend's SIM card and see if you're able to connect normally.
+ 1. Assicurati di essere in regola con il tuo operatore. Prova ad usare la SIM card di un tuo amico e vedi se sei in grado di connetterti normalmente.
 
- 2. If you're using two SIM cards, try switching to the other card and see if you're able to connect normally.
+ 2. Se stai usando due SIM card, prova a spostarti sull\'altra e vedi se sei in grado di connetterti normalmente.
 
- 3. Make sure your SIM card and your device's SIM slot aren't damaged. Confirm that the SIM card you're using is properly inserted in your device's SIM tray."</string>
-    <string name="network_route_exception_detail">"There may be a problem with the router you're connected to:
+ 3. Assicurati che la SIM card e lo slot per la SIM non siano danneggiati. Controlla che la SIM card sia correttamente inserita nello slot."</string>
+    <string name="network_route_exception_detail">"Potrebbe esserci qualche problema con il router cui sei connesso:
 
- "<b>"1. Public WLAN network issues
-"</b>"If you're connected to a public WLAN network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
+ "<b>"1. Problemi con la rete WLAN pubblica
+ "</b>"Se sei connesso ad una rete WLAN pubblica il numero di utenti connessi potrebbe rallentare la rete o creare problemi. Connettiti ad un\'altra rete e riprova.
 
- 2."<b>" Internet service provider issues
-M"</b>"ake sure that your account is in good standing with your Internet Service Provider.
+ 2."<b>" Problemi con il fornitore della rete internet
+ "</b>"Assicurati di avere i conti apposto con il fornitore della rete internet.
 
- 3."<b>" Router hardware issues
-T"</b>"ry rebooting your router or checking the admin settings for your router.
+ 3."<b>" Problemi hardware riguardanti il router
+ "</b>"Prova a ravviare il tuo router o a controllare le sue impostazioni.
 
- 4."<b>" Other router issues
-R"</b>"ead the instructions that came with your router and restore your router to its factory settings.
+ 4."<b>" Altri problemi con il router
+ "</b>"Leggi le istruzioni fornite col router e prova a ripristinare le impostazioni di fabbrica.
 
- 5."<b>" Make sure your router is connected properly
-T"</b>"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet Service Provider."</string>
-    <string name="permission_exception_title">View network permissions</string>
-    <string name="permission_exception_summary">"Some apps don't have permission to connect to the internet"</string>
+ 5."<b>" Assicurati che il router sia connesso a dovere
+ "</b>"Prova ad usare un altro cavo ethernet. Se credi che il problema sia dovuto alla connessione di casa contatta il fornitore della rete internet."</string>
+    <string name="permission_exception_title">Controlla permessi rete</string>
+    <string name="permission_exception_summary">"Alcune app non hanno i permessi per connettersi ad internet"</string>
     <string name="networkchanged_exception_title">Connessione cambiata</string>
-    <string name="networkchanged_exception_summary">Network connection has changed. Please test again.</string>
+    <string name="networkchanged_exception_summary">La connessione è cambiata. Per favore prova ancora.</string>
     <string name="network_speed_for_apps_title">Connessione</string>
     <string name="network_speed_for_apps_total">Velocità di connessione</string>
-    <string name="network_speed_for_apps_close_app_dlg_msg">Force stop this app?</string>
-    <string name="network_speed_for_apps_close_system_app_dlg_msg">"Can't force stop system apps."</string>
-    <string name="network_speed_for_apps_close">Force stop</string>
-    <string name="network_speed_for_apps_others">Other</string>
-    <string name="tc_diagnostic_title">Carrier diagnostics</string>
-    <string name="start_diagnostic_botton">Start</string>
-    <string name="updating_diagnostic_botton">Analyzing data…</string>
-    <string name="tc_diagnostic_onekey_repair_botton">Fix</string>
-    <string name="tc_diagnostic_repair_and_continue">Fix and continue</string>
-    <string name="tc_diagnostic_upload_button">Report</string>
-    <string name="tc_diagnostic_fragment_default">"About diagnostics
-1. The device will connect to the carrier's network, send a free message, and wait for the carrier's response. This may take up to 5 minutes.
-2. You can leave this page during the diagnostics, it will be carried out in the background."</string>
-    <string name="sim_location_diagnostic">Location diagnostics</string>
-    <string name="operator_diagnostic">Carrier diagnostics</string>
-    <string name="brand_diagnostic">Carrier brand type diagnostics</string>
-    <string name="tc_diagnostic_status_updating">Testing…</string>
-    <string name="tc_diagnostic_status_success">"<font color='#3EC234'>Correct</font>"</string>
-    <string name="tc_diagnostic_status_failure">"<font color='#CC0000'>Error</font>"</string>
-    <string name="tc_diagnostic_status_not_get">"<font color='#ED9523'>Couldn\'t get info</font>"</string>
-    <string name="tc_diagnostic_status_no_network">"<font color='#ED9523'>No network connection</font>"</string>
+    <string name="network_speed_for_apps_close_app_dlg_msg">Chiusura forzata per questa app?</string>
+    <string name="network_speed_for_apps_close_system_app_dlg_msg">"Chiusura forzata impossibile per le app di sistema."</string>
+    <string name="network_speed_for_apps_close">Chiusura forzata</string>
+    <string name="network_speed_for_apps_others">Altre</string>
+    <string name="tc_diagnostic_title">Diagnostica operatore</string>
+    <string name="start_diagnostic_botton">Comincia</string>
+    <string name="updating_diagnostic_botton">Analizzando i dati…</string>
+    <string name="tc_diagnostic_onekey_repair_botton">Correggi</string>
+    <string name="tc_diagnostic_repair_and_continue">Correggi e continua</string>
+    <string name="tc_diagnostic_upload_button">Riporta</string>
+    <string name="tc_diagnostic_fragment_default">"Sulla diagnostica
+1. Il dispositivo si connetterà alla rete dell\'operatore einvierà un messaggio gratuito aspettando la risposta dell\'operatore. Questo può richidere più di 5 minuti.
+2. Puoi chiudere questa pagina durante la diagnostica perché proseguirà anche in background."</string>
+    <string name="sim_location_diagnostic">Diagnostica posizione</string>
+    <string name="operator_diagnostic">Diagnostica operatore</string>
+    <string name="brand_diagnostic">Diagnostica marca operatore</string>
+    <string name="tc_diagnostic_status_updating">Testando…</string>
+    <string name="tc_diagnostic_status_success">"<font color='#3EC234'>Corretto</font>"</string>
+    <string name="tc_diagnostic_status_failure">"<font color='#CC0000'>Errore</font>"</string>
+    <string name="tc_diagnostic_status_not_get">"<font color='#ED9523'>Impossibile ottenere informazioni</font>"</string>
+    <string name="tc_diagnostic_status_no_network">"<font color='#ED9523'>Nessuna connessione rete</font>"</string>
     <string name="tc_diagnostic_status_timeout">"<font color='#CC0000'>Timeout</font>"</string>
-    <string name="tc_diagnostic_status_error_brand">Carrier network not found</string>
-    <string name="tc_diagnostic_status_success_brand">"<font color="#3EC234">Carrier network responds</font>"</string>
-    <string name="tc_diagnostic_notification_title">Carrier diagnostics</string>
-    <string name="tc_diagnostic_notification_summary">"Couldn't adjust 5 times in a row. Tap to start diagnostics."</string>
-    <string name="tc_diagnostic_upload_success">Thank you for your feedback!</string>
-    <string name="tc_diagnostic_upload_no_network">Thank you for your feedback! Your report will be submitted when you connect to network.</string>
-    <string name="tc_diagnostic_location_error_notification_title">Wrong location</string>
-    <string name="tc_diagnostic_location_error_notification_summary">Tap to adjust location</string>
-    <string name="tc_diagnostic_operator_error_notification_title">Wrong carrier</string>
-    <string name="tc_diagnostic_operator_error_notification_summary">Tap to change carrier settings</string>
-    <string name="tc_diagnostic_brand_error_notification_title">Wrong network type</string>
-    <string name="tc_diagnostic_brand_error_notification_summary">Tap to adjust network type</string>
-    <string name="tc_diagnostic_all_error_notification_title">"Couldn't complete diagnostics"</string>
-    <string name="tc_diagnostic_all_error_notification_summary">Tap to report an issue</string>
-    <string name="tc_diagnostic_success_notification_title">Carrier network and brand are correct</string>
-    <string name="tc_diagnostic_success_notification_summary">Report this issue to help MIUI improve diagnostic tools</string>
-    <string name="tc_diagnostic_repair_success_toast">Changed successfully</string>
-    <string name="tc_diagnostic_complete">Done</string>
-    <string name="tc_diagnostic_notification_sumarry">Tap to view results</string>
-    <string name="tc_diagnostic_repair_location">"<font color="#3EC234">Diagnostics complete, fixed location issues.</font>"</string>
-    <string name="tc_diagnostic_repair_location_and_operator">"<font color="#3EC234">Diagnostics complete, fixed location and carrier issues.</font>"</string>
-    <string name="diagnostic_attention_dialog_message">"Diagnostics for %1$s is in progress. Wait until it's finished and try again."</string>
-    <string name="correction_attention_dialog_message">Adjusting settings now. Wait until the process is finished and try again.</string>
-    <string name="text_button">Got it</string>
+    <string name="tc_diagnostic_status_error_brand">Rete operatore non trovata</string>
+    <string name="tc_diagnostic_status_success_brand">"<font color="#3EC234">La rete operatore non risponde</font>"</string>
+    <string name="tc_diagnostic_notification_title">Diagnostica operatore</string>
+    <string name="tc_diagnostic_notification_summary">"Impossibile regolare 5 volte di fila. Toccare per avviare la diagnostica."</string>
+    <string name="tc_diagnostic_upload_success">Grazie per il tuo feedback!</string>
+    <string name="tc_diagnostic_upload_no_network">Grazie per il tuo feedback! La tua segnalazione sarà inviata non appena ti connetti alla rete.</string>
+    <string name="tc_diagnostic_location_error_notification_title">Posizione sbagliata</string>
+    <string name="tc_diagnostic_location_error_notification_summary">Toccare per aggiustare la posizione</string>
+    <string name="tc_diagnostic_operator_error_notification_title">Operatore sbagliato</string>
+    <string name="tc_diagnostic_operator_error_notification_summary">Toccare per aggiustare l\'operatore</string>
+    <string name="tc_diagnostic_brand_error_notification_title">Tipo rete sbagliata</string>
+    <string name="tc_diagnostic_brand_error_notification_summary">Toccare per aggiustare la rete</string>
+    <string name="tc_diagnostic_all_error_notification_title">"Impossibile completare la diagnostica"</string>
+    <string name="tc_diagnostic_all_error_notification_summary">Toccare per inviare una segnalazione</string>
+    <string name="tc_diagnostic_success_notification_title">Rete operatore e marca sono corretti</string>
+    <string name="tc_diagnostic_success_notification_summary">Riposta questo problema per aiutare MIUI a migliorare gli strumenti per la diagnostica</string>
+    <string name="tc_diagnostic_repair_success_toast">Modificato con successo</string>
+    <string name="tc_diagnostic_complete">Fatto</string>
+    <string name="tc_diagnostic_notification_sumarry">Toccare per vedere i risultati</string>
+    <string name="tc_diagnostic_repair_location">"<font color="#3EC234">Diagnostica completata, risolti problemi posizione.</font>"</string>
+    <string name="tc_diagnostic_repair_location_and_operator">"<font color="#3EC234">Diagnostica completa,  risolti problemi posizione e operatore.</font>"</string>
+    <string name="diagnostic_attention_dialog_message">"La diagnostica per %1$s in corso. Aspetta che finisca e prova ancora."</string>
+    <string name="correction_attention_dialog_message">Regolazione delle impostazioni. Aspetta che il processo termini e prova ancora.</string>
+    <string name="text_button">Ok</string>
     <string name="power_center_title">Batteria</string>
     <string name="power_center_consume_rank">Utilizzo batteria</string>
     <string name="power_center_custom_title">Risparmio batteria</string>
