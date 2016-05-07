@@ -421,7 +421,7 @@ For more info check the message you received from your carrier"</string>
     <string name="tc_sms_report_get_sms_timeout">Richiesta scaduta</string>
     <string name="tc_sms_report_get_sms_successs">Formato SMS utilizzo dati aggiornato</string>
     <string name="tc_sms_report_get_default">"You won't incur charges for SMS messages used to get your data usage balance from your carrier."</string>
-    <string name="tc_sms_report_toast_text">Getting info…</string>
+    <string name="tc_sms_report_toast_text">Recupero informazione…</string>
     <string name="privacy_declare_dialog_title">Termini del servizio</string>
     <string name="privacy_declare_dialog_message">"By using this service, you are agreeing to Opera's Terms of Service."</string>
     <string name="sc_allow_network_dialog_tiltle">"Can't use this feature"</string>
@@ -550,11 +550,11 @@ For more info check the message you received from your carrier"</string>
     <string name="network_blocked_connected_open_wifi">Connesso ad una rete pubblica</string>
     <string name="network_connected_exception_title">Testa la rete</string>
     <string name="protocol_exception_title">Diagnostica protocolli di rete</string>
-    <string name="protocol_loop_back_exception_summary">Test local loop back fallito. Per riportare questo problema a MIUI, vai nella app di segnalazion ed invia un log dal tuo dispositivo.</string>
+    <string name="protocol_loop_back_exception_summary">Test local loop back fallito. Per riportare questo problema a MIUI, vai nella app di segnalazione ed invia un log dal tuo dispositivo.</string>
     <string name="ip_address_exception_summary">"Impossibile ottenere l\'indirizzo IP. Se questo succede di nuovo considera l\'uso di un indirizzo IP statico."</string>
     <string name="local_ip_exception_summary">"Impossibile ottenere l\'indirizzo IP. Se questo succede di nuovo considera l\'uso di un indirizzo IP statico."</string>
     <string name="renew_ip">Riprova</string>
-    <string name="network_permission_exception_tips">"Impossibile usare la connessione dati per connetters alla rete"</string>
+    <string name="network_permission_exception_tips">"Impossibile usare la connessione dati per connettersi alla rete"</string>
     <string name="open_now">Consenti alle app di usare la connessione dati</string>
     <string name="network_roaming_exception_tips">"Impossibile usare la connessione dati durante il roaming per connettersi alla rete."</string>
     <string name="network_mobile_exception_detail">"Il tuo dispositivo non può connettersi ad internet:
@@ -604,7 +604,7 @@ For more info check the message you received from your carrier"</string>
     <string name="tc_diagnostic_repair_and_continue">Correggi e continua</string>
     <string name="tc_diagnostic_upload_button">Riporta</string>
     <string name="tc_diagnostic_fragment_default">"Sulla diagnostica
-1. Il dispositivo si connetterà alla rete dell\'operatore einvierà un messaggio gratuito aspettando la risposta dell\'operatore. Questo può richidere più di 5 minuti.
+1. Il dispositivo si connetterà alla rete dell\'operatore e invierà un messaggio gratuito aspettando la risposta dell\'operatore. Questo può richidere più di 5 minuti.
 2. Puoi chiudere questa pagina durante la diagnostica perché proseguirà anche in background."</string>
     <string name="sim_location_diagnostic">Diagnostica posizione</string>
     <string name="operator_diagnostic">Diagnostica operatore</string>
