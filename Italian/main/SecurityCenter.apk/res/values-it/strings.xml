@@ -1233,7 +1233,7 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
     <string name="antivirus_choose_engine_dialog_title">Scegli le definizioni</string>
     <string name="antivirus_choose_engine">Utilizza le definizioni da %s</string>
     <string name="antivirus_update_db">%s</string>
-    <string name="antivirus_none_engine_dialog_title">Sgegli le definizioni</string>
+    <string name="antivirus_none_engine_dialog_title">Scegli le definizioni</string>
     <string name="antivirus_none_engine_dialog_ok">OK</string>
     <string name="antivirus_privacy_dialog_title">Informativa sulla Privacy</string>
     <string name="antivirus_privacy_dialog_summary">Questa caratteristica cifra e carica il ID del dispositivo sul server (%s) di AVL e Tencent.</string>
