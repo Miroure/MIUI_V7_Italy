@@ -977,7 +977,7 @@ For more info check the message you received from your carrier"</string>
     <string name="protection_category_security_title">Puliti (%d)</string>
     <string name="title_virus_no">Virus rilevati</string>
     <string name="title_virus_yes">Nessun virus rilevato</string>
-    <string name="summary_virus">Rimuovi i virus per mantenere il dispositivo</string>
+    <string name="summary_virus">Rimuovi i virus per mantenere il dispositivo sicuro</string>
     <string name="title_permission_no">Gestore permessi disattivato</string>
     <string name="title_permission_yes">Gestore permessi attivato</string>
     <string name="summary_permission">Proteggi la mia privacy dalle app potenzialmente malevoli</string>
@@ -987,8 +987,8 @@ For more info check the message you received from your carrier"</string>
     <string name="title_usb_no">Debug USB attivato</string>
     <string name="title_usb_yes">Debug USB disattivato</string>
     <string name="summary_usb">Evita la diffusione di virus da altri dispositivi</string>
-    <string name="title_virus_update_no">Auto aggiornamento definizione virus disattivato</string>
-    <string name="title_virus_update_yes">Auto aggiornamento definizione virus attivato</string>
+    <string name="title_virus_update_no">Auto aggiornamento definizioni virus disattivato</string>
+    <string name="title_virus_update_yes">Auto aggiornamento definizioni virus attivato</string>
     <string name="summary_virus_update">Aggiorna le definizioni dei virus automaticamente quando sei connesso al Wi-Fi</string>
     <string name="title_install_virus_no">Gestore installazioni disattivato</string>
     <string name="title_install_virus_yes">Gestore installazioni attivato</string>
