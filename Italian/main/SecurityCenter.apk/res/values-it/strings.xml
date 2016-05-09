@@ -638,7 +638,7 @@ For more info check the message you received from your carrier"</string>
     <string name="tc_diagnostic_repair_location_and_operator">"<font color="#3EC234">Diagnostica completa,  risolti problemi posizione e operatore.</font>"</string>
     <string name="diagnostic_attention_dialog_message">"La diagnostica per %1$s in corso. Aspetta che finisca e prova ancora."</string>
     <string name="correction_attention_dialog_message">Regolazione delle impostazioni. Aspetta che il processo termini e prova ancora.</string>
-    <string name="text_button">Ok</string>
+    <string name="text_button">OK</string>
     <string name="power_center_title">Batteria</string>
     <string name="power_center_consume_rank">Utilizzo batteria</string>
     <string name="power_center_custom_title">Risparmio batteria</string>

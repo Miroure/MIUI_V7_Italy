@@ -86,7 +86,7 @@
     <string name="dpad_left">Sinistra</string>
     <string name="dpad_right">Destra</string>
     <string name="dpad_ok">OK</string>
-    <string name="confirm">Ok</string>
+    <string name="confirm">OK</string>
     <string name="cancel">Annulla</string>
     <string name="splash_desc">Ora questo dispositivo può sostituire il telecomando di casa.</string>
     <string name="splash_add_device_des">Inizia aggiungendo un nuovo dispositivo da controllare!</string>
