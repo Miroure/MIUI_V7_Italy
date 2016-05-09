@@ -446,9 +446,9 @@ For more info check the message you received from your carrier"</string>
     <string name="roaming_start_title">Roaming estero</string>
     <string name="roaming_start_body">Tocca per visualizzare le eccezioni di dati roaming.</string>
     <string name="dialog_app_roaming_title">Roaming estero non è attivo per %1$s</string>
-    <string name="dialog_app_roaming_message">"%1$s non può usare la connessione dati durante il roaming. Quando usi il roaming all\'estero, solo le app che hai aggiunto alle eccezioni potranno usare la connessione dati."/string>
+    <string name="dialog_app_roaming_message">"%1$s non può usare la connessione dati durante il roaming. Quando usi il roaming all'estero, solo le app che hai aggiunto alle eccezioni potranno usare la connessione dati."</string>
     <string name="add_miservice_dialog_title">MIUI service framework</string>
-    <string name="add_miservice_dialog_content">"%s richiede l\'aggiunta di MIUI services framework alla lista delle eccezioni. Potresti ricevere notifiche dalle app MIUI di sistema e da quelle di terze parti."</string>
+    <string name="add_miservice_dialog_content">"%s richiede l'aggiunta di MIUI services framework alla lista delle eccezioni. Potresti ricevere notifiche dalle app MIUI di sistema e da quelle di terze parti."</string>
     <string name="pref_roaming_daily_limit_setting_cat_title">Limite dati giornaliero</string>
     <string name="pref_roaming_daily_limit_setting">Imposta limite dati giornaliero quando sei in roaming</string>
     <string name="dialog_roaming_apps_sorted_title">Ordina per</string>
@@ -526,7 +526,7 @@ For more info check the message you received from your carrier"</string>
     <string name="gateway_exception_summary2">"Impossibile connettersi al server"</string>
     <string name="other_exception_title">In cerca di altri problemi</string>
     <string name="other_exception_summary">"Non hai una connessione internet"</string>
-    <string name="see_detail">Dettagli/string>
+    <string name="see_detail">Dettagli</string>
     <string name="choose">Scegli</string>
     <string name="pay_charge">Compra traffico dati</string>
     <string name="replace_dns">Rimpiazza DNS automaticamente</string>
