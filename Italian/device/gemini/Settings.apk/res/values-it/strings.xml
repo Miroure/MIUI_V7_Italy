@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-       <string name="wifi_fail_to_scan">Impossibile cercare reti</string>
+    <string name="wifi_fail_to_scan">Impossibile cercare reti</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
@@ -2998,7 +2998,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="apps_storage">Apps storage</string>
     <string name="usage_access">Accesso ai dati di utilizzo</string>
     <string name="permit_usage_access">Consenti accesso ai dati di utilizzo</string>
-    <string name="app_usage_preference">Preferenze sui dati di utilizzo delle app"</string>
+    <string name="app_usage_preference">Preferenze sui dati di utilizzo delle app</string>
     <string name="usage_access_description">"L'accesso ai dati di utilizzo consente ad un'app di tracciare le altre app che stai usando e la frequenza con cui le utilizzi, così come il tuo operatore, le impostazioni sulla lingua e altri dettagli."</string>
     <string name="memory_settings_title">Memoria</string>
     <string name="memory_details_title">Dettagli memoria</string>
@@ -3034,7 +3034,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="inactive_app_inactive_summary">Disattivata. Tocca per attivare.</string>
     <string name="inactive_app_active_summary">Attivata. Tocca per disattivare.</string>
     <string name="assist_access_context_title">Utilizzia il testo sullo scherm</string>
-    <string name="assist_access_context_summary">Conseti alle app di assistenza di accedere al contenuto dello schermo come testo</string>
+    <string name="assist_access_context_summary">Consenti alle app di assistenza di accedere al contenuto dello schermo come testo</string>
     <string name="assist_access_screenshot_title">Utilizza screenshot</string>
     <string name="assist_access_screenshot_summary">"Consenti alle app di assistenza di accede all'immagine dello schermo"</string>
     <string name="assist_footer">Le app di assistenza possono aiutarti in base alle informazioni tratte dalle schemate che stai visualizzando. Alcune app supporto sia il launcher che i servizi di immissione vocale per fornirti assistenza maggiormente integrata.</string>
@@ -3042,7 +3042,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="maximum_memory_use">Massimo memoria utilizzata</string>
     <string name="memory_usage">Memoria occupata</string>
     <string name="app_list_memory_use">"Utilizzo da parte dell'app"</string>
-    <string name="memory_details">Dettagku</string>
+    <string name="memory_details">Dettagli</string>
     <string name="memory_use_summary">%1$s di memoria usati in media nelle ultime 3 ore</string>
     <string name="no_memory_use_summary">Nessun utilizzo della memoria nelle ultime 3 ore</string>
     <string name="sort_avg_use">Ordina per media di utilizzo</string>
@@ -3055,7 +3055,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="running_frequency">Frequenza</string>
     <string name="memory_maximum_usage">Massimo utilizzo</string>
     <string name="no_data_usage">Nessun dato usato</string>
-    <string name="zen_access_warning_dialog_title">Vuoi consentire l'accesso alla Modalità Anti-disturbo a %1$s?</string>
+    <string name="zen_access_warning_dialog_title">"Vuoi consentire l'accesso alla Modalità Anti-disturbo a %1$s?"</string>
     <string name="zen_access_warning_dialog_summary">"L'app sarà in grado di attivare e disattivare la Modalità Anti-disturbo e modificare le relative impostazioni."</string>
     <string name="ignore_optimizations_on">Non ottimizzare</string>
     <string name="ignore_optimizations_off">Ottimizza</string>
@@ -3063,7 +3063,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="ignore_optimizations_off_desc">Raccomandato per una maggiore durata della batteria</string>
     <string name="ignore_optimizations_title">Vuoi consentire a %s di ignorare le ottimizzazioni del consumo?</string>
     <string name="app_list_preference_none">Nessuno</string>
-    <string name="work_profile_usage_access_warning">"Disattivare l'accesso ai dati di utilizzo di quest'app non impedisce al tuto amministratore di tracciare i dati di utilizzo di questa applicazione nel tuo profilo lavorativo."</string>
+    <string name="work_profile_usage_access_warning">"Disattivare l'accesso ai dati di utilizzo di quest'app non impedisce al tuo amministratore di tracciare i dati di utilizzo di questa applicazione nel tuo profilo lavorativo."</string>
     <string name="accessibility_lock_screen_progress">%1$d di %2$d caratteri usati</string>
     <string name="draw_overlay_title">App che possono disegnare sopra altre app</string>
     <string name="draw_overlay">Disegno su altre app</string>
@@ -3086,7 +3086,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="write_settings_title">Può modificare le impostazioni di sistema</string>
     <string name="write_system_settings">Modifica impostazioni di sistema</string>
     <string name="write_settings_preference">Permesso di modifica impostazioni di sistema da parte delle app</string>
-    <string name="permit_write_settings">"Consenti modifiche alle impostazioni di sistema"</string>
+    <string name="permit_write_settings">Consenti modifiche alle impostazioni di sistema</string>
     <string name="write_settings_description">"Questo permesso consente ad un'app di modificare le impostazioni di sistema."</string>
     <string name="write_settings_on">Si</string>
     <string name="write_settings_off">No</string>
@@ -3099,10 +3099,10 @@ L'identificatore pubblicitario è un ID permanente e univoco del tuo dispositovo
 
 Se scegli di non personalizzare le pubblicità, la quantità di pubblicità non diminuirà, ma diminuirà notevolemente la quantità di pubblicità utile."</string>
     <string name="confirm_reset_aaid">OK</string>
-    <string name="config_mtp_function_name">MTP</string>
-    <string name="config_ptp_function_name">PTP</string>
-    <string name="config_mass_storage_function_name">Memoria</string>
-    <string name="config_charging_function_name">In carica</string>
+    <string name="config_mtp_function_name">mtp</string>
+    <string name="config_ptp_function_name">ptp</string>
+    <string name="config_mass_storage_function_name">mass_storage</string>
+    <string name="config_charging_function_name">charging</string>
     <string name="wifi_type_approval"/>
     <string name="do_not_disturb_mode">Non disturbare</string>
     <string name="dndm_notification">Modalità Non disturbare attivata.</string>
