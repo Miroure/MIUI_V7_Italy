@@ -814,7 +814,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="network_settings_auto_select_title">Non selezionare automaticamente le reti</string>
     <string name="network_settings_next">Avanti</string>
     <string name="network_settings_confirm_message">La rete potrebbe non essere disponibile.</string>
-    <string name="network_settings_query_failed_message">Interrogazione rete fallita. Tocca Annulla per usare la tua rete preferita o tocca Ok per riprovare.</string>
+    <string name="network_settings_query_failed_message">Interrogazione rete fallita. Tocca Annulla per usare la tua rete preferita o tocca OK per riprovare.</string>
     <string name="retry_btn">Riprova</string>
     <string name="network_settings_information">Informazione</string>
     <string name="network_settings_duringcall">Operazione non consentita durante una chiamata</string>
