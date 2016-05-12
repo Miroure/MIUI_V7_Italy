@@ -94,9 +94,9 @@ Per attivare il tuo account, segui il
     <string name="passport_login_check_find_device">Verifica stato Trova Dispositivo…</string>
     <string name="passport_login_check_find_device_failed_title">Impossibile verificare lo stato di Trova Telefono</string>
     <string name="passport_login_check_find_device_failed_message">Controlla la tua connessione.</string>
-    <string name="passport_login_find_device_bind">Questo dispositivo è associato ad un Mi Account esistente  ID (%s). Accedi epr attivar eil dispositivo.</string>
-    <string name="passport_retry">Retry</string>
-    <string name="passport_back">Back</string>
+    <string name="passport_login_find_device_bind">Questo dispositivo è associato ad un Mi Account esistente  ID (%s). Accedi per attivare il dispositivo.</string>
+    <string name="passport_retry">Avanti</string>
+    <string name="passport_back">Indietro</string>
     <string name="passport_failed_to_send_activate_email">"Impossibile inviare l'email di attivazione"</string>
     <string name="passport_access_denied">Accesso negato</string>
     <string name="passport_reging">Creazione account…</string>

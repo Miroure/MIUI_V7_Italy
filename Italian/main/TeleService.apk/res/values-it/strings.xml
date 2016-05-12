@@ -1068,7 +1068,7 @@ Sarà usata al suo posto la rete preferita.</string>
     <string name="telocation_error_message_number">%s supporta solo numeri</string>
     <string name="telocation_jituan_error_message_number">%s supporta solo numeri e caratteri jolly</string>
 	<string name="telocation_country_code_enabled_title">Aggiungi il codice paese in chiamata</string>
-    <string name="telocation_country_code_enabled_message">Aggiungi il codice paese per fare chiamate in roaming in più convenienti.</string>
+    <string name="telocation_country_code_enabled_message">Aggiungi il codice paese per fare chiamate in roaming più convenienti.</string>
     <string name="voip_setting">Impostazioni VoIP</string>
     <string name="respond_via_sms_canned_response_1">Ora non posso parlare. Puoi richiamare più tardi?</string>
     <string name="respond_via_sms_canned_response_2">Richiamo io al più presto</string>
