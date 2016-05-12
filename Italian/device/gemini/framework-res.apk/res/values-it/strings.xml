@@ -16,7 +16,7 @@
     <string name="search_go">Cerca</string>
     <string name="selectAll">Seleziona tutto</string>
     <string name="unknownName">(Sconosciuto)</string>
-    <string name="untitled"><Senza nome></string>
+    <string name="untitled">&lt;Senza nome></string>
     <string name="VideoView_error_button">OK</string>
     <string name="VideoView_error_text_unknown">Impossibile riprodurre il video.</string>
     <string name="VideoView_error_title">Problemi video</string>
@@ -35,14 +35,10 @@
     <string name="config_wifi_framework_sap_2G_channel_list">1,6,11</string>
     <string name="widget_default_package_name"/>
     <string name="widget_default_class_name"/>
-    <string name="default_wallpaper_component">@null</string>
     <string name="image_wallpaper_component">com.android.systemui/com.android.systemui.ImageWallpaper</string>
     <string name="config_networkLocationProviderPackageName">com.amap.android.location</string>
     <string name="config_fusedLocationProviderPackageName">com.qualcomm.location</string>
     <string name="config_hardwareFlpPackageName">com.android.location.fused</string>
-    <string name="config_geocoderProviderPackageName">@null</string>
-    <string name="config_geofenceProviderPackageName">@null</string>
-    <string name="config_activityRecognitionHardwarePackageName">@null</string>
     <string name="config_comboNetworkLocationProvider">com.qualcomm.location</string>
     <string name="config_datause_iface">rmnet0</string>
     <string name="default_sms_application">com.android.mms</string>
@@ -51,9 +47,6 @@
     <string name="mobile_provisioning_apn"/>
     <string name="mobile_provisioning_url"/>
     <string name="gsm_alphabet_default_charset"/>
-    <string name="db_default_journal_mode">PERSIST</string>
-    <string name="db_default_sync_mode">FULL</string>
-    <string name="db_wal_sync_mode">FULL</string>
     <string name="config_useragentprofile_url"/>
     <string name="config_mms_user_agent">Android-Mms/2.0</string>
     <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
@@ -95,7 +88,6 @@
     <string name="common_name_conjunctions"/>
     <string name="lock_pattern_view_aspect">square</string>
     <string name="icu_abbrev_wday_month_day_no_year">eeeMMMMd</string>
-    <string name="system_ui_date_pattern">@string/icu_abbrev_wday_month_day_no_year</string>
     <string name="font_family_display_4_material">sans-serif-light</string>
     <string name="font_family_display_3_material">sans-serif</string>
     <string name="font_family_display_2_material">sans-serif</string>
