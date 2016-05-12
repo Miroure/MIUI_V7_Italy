@@ -96,6 +96,7 @@
     <string name="app_name">Galleria</string>
     <string name="home_page_label">Foto</string>
     <string name="album_page_label">Album</string>
+	<string name="other_album">Altri album</string>
     <string name="crop_label">Ritaglia</string>
     <string name="home_page_empty">Vuoto</string>
     <string name="people_page_label">Viso</string>
