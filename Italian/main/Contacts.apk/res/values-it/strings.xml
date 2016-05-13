@@ -899,6 +899,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="cloud_antispam_title">Identifica numeri sconosciuti</string>
     <string name="preference_contacts_recovery_introduction">Ripristina contatti</string>
     <string name="share_over_limit">Limite superato, impossibile condividere</string>
+    <string name="preference_key_trash_bin_title">Cerca tra i backup dei contatti eliminati di recente</string>
     <string name="account_default">Dispositivo</string>
     <string name="lunarBirthdayLabelsGroup">Compleanno lunare</string>
     <string name="option_view_contact">Mostra</string>
@@ -1174,4 +1175,10 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="menu_newContactButton">Aggiungi</string>
     <string name="unable_get_device_id">Impossibile recuperare IMEI</string>
     <string name="missing_required_permission">Hai disattivato un permesso necessario.</string>
+    <string name="hybrid_network_unavaliable">"Impossibile colelgarsi alla rete"</string>
+    <string name="hybrid_data_error">Si è verificato un errore</string>
+    <string name="hybrid_locating_fail">Impossibile trovare la tua posizione</string>
+    <string name="hybrid_check_network">Impostazioni di rete</string>
+    <string name="hybrid_service_unavailiable">Servizio non disponibile</string>
+    <string name="hybrid_try_again">Prova di nuovo</string>
 </resources>

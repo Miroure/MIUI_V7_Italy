@@ -1066,6 +1066,7 @@ For more info check the message you received from your carrier"</string>
     <string name="activity_title_notification_bar_manager">Notifiche</string>
     <string name="activity_title_default_apps_manager">App predefinite</string>
     <string name="activity_title_permission_manager">Permessi</string>
+    <string name="activity_title_other_permission_manager">Altri permessi</string>
     <string name="activity_title_root_manager">Permessi root</string>
     <string name="activity_title_root_acquired">Consenti permessi root</string>
     <string name="activity_title_root_note">Informazioni sui permessi root</string>
@@ -1259,7 +1260,13 @@ For more info check the message you received from your carrier"</string>
     <string name="app_name">App lock</string>
     <string name="text_lock_info">Disegna la sequenza di sblocco</string>
     <string name="select_pattern">Scegli sequenza</string>
-    <string name="notification_item">Attiva App lock</string>
+    <string name="notification_item">Proteggi le app selezionate con App lock</string>
+    <string name="ac_enable_title">Attiva App lock</string>
+    <string name="lock_mode_title">Impostazioni di blocco</string>
+    <string name="after_the_lock_screen">"L'app è bloccata con lo schermo, puoi modificare l'impostazione nell impostazioni di App Lock."</string>
+    <string name="ac_firstUseApplock_title">"E' necessaria una password per accedere alle app selezionate</string>
+    <string name="ac_firstUseApplock_subTitle">Usa App Lock per proteggere la tua privacy</string>
+    <string name="notification_subtitle">Tocca per attivare</string>
     <string name="lockpattern_tutorial_cancel_label">Annulla</string>
     <string name="lockpattern_tutorial_continue_label">Avanti</string>
     <string name="lockpattern_retry_button_text">Disegna di nuovo</string>
@@ -1268,7 +1275,6 @@ For more info check the message you received from your carrier"</string>
     <string name="modifypassword">Cambia password</string>
     <string name="showpattern">Mostra sequenza</string>
     <string name="suggest_app_tolock">Suggerimenti</string>
-    <string name="modify_password_info">Sequenza di sblocco</string>
     <string name="forget_password_button_text"><u>Password dimenticata</u></string>
     <string name="lockpattern_need_to_unlock">Conferma la sequenza sequenza</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Troppi tentativi sbagliati!</string>

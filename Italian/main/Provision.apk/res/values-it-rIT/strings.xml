@@ -17,9 +17,15 @@ Leggi questo documento per la tastiera: "</string>
     <string name="other_settings">Impostazioni aggiuntive</string>
     <string name="other_settings_location">Localizzazione</string>
     <string name="other_settings_location_summary">Consenti alle applicazioni di utilizzare la tua posizione</string>
-    <string name="other_settings_user_experience">Feedback utente</string>
+    <string name="other_settings_user_experience">Programma Esperienza Utente</string>
     <string name="other_settings_user_experience_summary">"Contribuirai al miglioramento di MIUI con l'invio di dati anonimi di utilizzo"</string>
     <string name="other_settings_user_experience_summary1">(Vedi privacy)</string>
+    <string name="other_settings_permission">Permessi MIUI </string>
+    <string name="other_settings_permission_summary">Give Mi Cloud, Phone, and other core features and services the permissions they require to work as designed</string>
+    <string name="alert_dialog_title">Some services may misbehave...</string>
+    <string name="alert_dialog_msg">"Some of MIUI's core features and services won't be able to work as intended without these permissions (e.g. your device won't be able to display contact info during a call). If you disable these permissions, MIUI's apps will ask for individual permissions when they're required for a specific activity."</string>
+    <string name="alert_dialog_btn_close">Disable</string>
+    <string name="alert_dialog_btn_open">Cancel</string>
     <string name="next">Avanti</string>
     <string name="skip_underline"><u>Salta questo passaggio</u></string>
     <string name="sim_dectection_next">Continua</string>

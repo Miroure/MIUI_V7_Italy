@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="miuishare_app_name">MiuiShare</string>
+    <string name="miuishare_title_more">Altro</string>
+    <string name="miuishare_title_share">Condividi</string>
+    <string name="miuishare_account_login_ok">Accedi</string>
+    <string name="miuishare_account_activate_ok">Attiva</string>
+    <string name="miuishare_account_login_cancel">Annulla</string>
+    <string name="miuishare_account_login_confirmation">Accesso richiesto</string>
+    <string name="miuishare_account_activate_confirmation">Attivazione richiesta</string>
+    <string name="miuishare_account_need_login">"La condivisione Weibo necessita del collegamento con il tuo account con il tuo Xiaomi account con cui hai effettuato l'accesso. Vuoi collegare per condividere?"</string>
+    <string name="miuishare_account_need_activate">"La condivisione Weibo necessita del collegamento con il tuo account con il tuo Xiaomi account, che attualmente non è attivo. Attivare l'account?"</string>
+    <string name="miuishare_wechat_timeline_title">Cronologia Wechat</string>
+    <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuishare_publish">Invia</string>
+    <string name="miuishare_share_done">Contenuto condivisio inviato.</string>
+    <string name="miuishare_share_editor_title">Condividi</string>
+    <string name="miuishare_no_network">Nessuna rete per condividere</string>
     <string name="app_label">Pagine Gialle</string>
     <string name="phone_info_divider">" ｜ "</string>
     <string name="express_info_divider">" / "</string>
@@ -31,6 +47,7 @@
     <string name="download_failed_space">Download fallito, spazio insufficiente</string>
     <string name="download_failed_blocked">Download fallito, non è possibile connettersi alla rete</string>
     <string name="yellow_page_website">Sito ufficiale</string>
+    <string name="yellow_page_details">Dettagli azienda</string>
     <string name="menu_copy_text">Copia negli appunti</string>
     <string name="menu_call_ip_number">Effettua chiamata IP</string>
     <string name="toast_text_copied">Testo copiato</string>
@@ -110,6 +127,7 @@
     <string name="turn_on_smart_antispam_summary_on">Identifica e carica i numeri spam</string>
     <string name="turn_on_smart_antispam_summary_off">Cerca solo tra i numeri locali</string>
     <string name="agree">Conferma</string>
+    <string name="agree_to_continue">Continua</string>
     <string name="enable_now">Attiva adesso</string>
     <string name="dont_enable">Non attivare</string>
     <string name="user_notice_title">Avviso Utente</string>
@@ -118,6 +136,7 @@
     <string name="user_notice_identify_summary_format_cta">"Il tuo telefono userà l'elenco MIUI di aziende per bloccare chiamate non desiderate quando si è connessi in Wi-Fi. Premendo \"Conferma\" accetti %1$s e %2$s di xiaomi."</string>
     <string name="user_notice_yp_detail_summary_format_cta">"Alcune delle info nel tuo elenco di aziende sono vecchied. Desideri agiornarle? Premendo \"Conferma\" accetti %1$s e %2$s di Xiaomi."</string>
     <string name="about_smart_antispam_summary">Informazioni sul rilevamento di numeri sconosciuti da parte di Smart Antispam</string>
+    <string name="about_fraud_num_online_identification">Info sulla funzione</string>
     <string name="about_telephone_fraud">Informazioni sulle truffe telefoniche</string>
     <string name="turn_on_yellowpage_service_title">Utilizza il servizio di directory</string>
     <string name="notify_connect_title">Permessi di rete</string>
@@ -126,11 +145,16 @@
     <string name="fraud_number_online_identification">Blocca chiamate di telemarketing (richiede una connessione)</string>
     <string name="upload_and_verify_fraud_num_on">Condividi informazioni sulle chiamate di telemarketing bloccate</string>
     <string name="upload_and_verify_fraud_num_off">Questa funzionalità è stata chiusa</string>
-    <string name="about_fraud_num_online_identification">Informazioni su questa funzionalità</string>
+    <string name="turn_on_phone_event_dialog_title">Aggiorna il database di identificazione dei numeri</string>
     <string name="turn_on_phone_event_title">Recupero informazioni di servizio</string>
     <string name="turn_on_phone_event_summary">Stato del caricamento del telefono per i numeri di servizio</string>
+    <string name="turn_off_hint_title">Non identificare i numeri sconosciuti?</string>
+    <string name="turn_off_phone_event_hint">Non potrai vedere le informazioni sui numeri sconosciuti.</string>
+    <string name="turn_off_smart_antispam_hint">Disattivare la protezione per le chiamate da numeri sconosciuti?</string>
     <string name="about_phone_event">Informazioni sul servizio</string>
     <string name="phone_event_setting_notice_text">Le pagine gialle vorrebbero caricare numeri di servizio verificati (com il tuo provider) sui server Mi, in questo modo puoi ricevere aggiornamenti sui servizi.</string>
+    <string name="phone_event_setting_notice_text_with_contacts_permission">"Utilizzando questa funzione accetti %1$s e %2$s. Per poter recuperare le informazioni sul numero, dobbiamo accedere ai tuoi contatti."</string>
+    <string name="agree_to_turn_on">Concordo</string>
     <string name="payment_back">Indietro</string>
     <string name="payment_failed_common_problems">Si è verificato un errore durante il pagamento.</string>
     <string name="payment_unknown_status_title">Errore di stato del pagamento</string>
@@ -181,6 +205,7 @@ Totale: RMB%3$s"</string>
     <string name="packages_no_package">Nessun pacchetto dati adeguato</string>
     <string name="login_ok">Accedi</string>
     <string name="login_before_use">"Devi eseguire l'accesso prima di ricaricare."</string>
+    <string name="open_installed_app">Apri</string>
     <string name="express_inquiry">Tracciamento</string>
     <string name="express_inquiry_serial_number_indication">Numero tracciamento</string>
     <string name="express_inquiry_button_text">Traccia</string>
@@ -340,6 +365,7 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="tag_follow_yp_id">tag_follow_yp_id</string>
     <string name="tag_follow_status">tag_follow_stato</string>
     <string name="follow_processing">in elaborazione</string>
+    <string name="homepage_barcode_prompt">Scansiona per aprire la home.</string>
     <string name="follow_label">Segui %1$s</string>
     <string name="follow_success">Smetti di seguire %1$s.</string>
     <string name="nearby_yellow_page_title">Vicino</string>
@@ -375,6 +401,7 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="yellowpage_navigation_network_location_enable">Consenti</string>
     <string name="yellowpage_navigation_network_location_enable_later">Non adesso</string>
     <string name="yellowpage_navigation_network_location_enabled">"L'accesso alla posizione è attivo, puoi disattivarlo nelle impostazioni"</string>
+    <string name="share">Condividi</string>
     <string name="sina_share_pendding">Invio in corso…</string>
     <string name="sina_share_success">Inviato</string>
     <string name="sina_share_fail">Impossibile inviare</string>

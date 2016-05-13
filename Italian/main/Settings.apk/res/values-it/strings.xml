@@ -3121,6 +3121,9 @@ Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
     <string name="wfd_disconnect_multiple_diag_message">Se termini la connessione al display wireless, la tua connessione con %1$s e altri %2$s dispositivi sarà terminata.</string>
     <string name="wfd_wps_keypad">Preferisco usare il pulsante</string>
     <string name="wfd_wps_pbc">Preferisco inserire il PIN</string>
+    <string name="virtual_sim_global_category_title">Mi SIM</string>
+    <string name="virtual_sim_global_title">Servizio traffico dati</string>
+    <string name="virtual_sim_global_description">Non serve una SIM per collegarsi alla rete dati</string>
     <string name="virtual_sim_category_title">SIM virtuale</string>
     <string name="virtual_sim_title">Rete dati roaming</string>
     <string name="virtual_sim_description">Servizio di roaming internazionale affidabile</string>

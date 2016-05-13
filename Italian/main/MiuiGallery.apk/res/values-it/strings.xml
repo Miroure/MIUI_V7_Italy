@@ -96,8 +96,11 @@
     <string name="app_name">Galleria</string>
     <string name="home_page_label">Foto</string>
     <string name="album_page_label">Album</string>
-	<string name="other_album">Altri album</string>
+    <string name="other_album">Altri album</string>
     <string name="crop_label">Ritaglia</string>
+    <string name="runtime_permission_ungranted">Galleria chiusa per mancanza permessi</string>
+    <string name="name_split">,</string>
+    <string name="more_album_hint">,etc</string>
     <string name="home_page_empty">Vuoto</string>
     <string name="people_page_label">Viso</string>
     <string name="people_page_unname">Senza nome</string>
@@ -107,6 +110,7 @@
     <string name="face_album_detecting_tip">Solo un secondo…</string>
     <string name="face_album_empty">Vuoto</string>
     <string name="face_album_empty_syncing">Sincronizzazione dati</string>
+    <string name="face_album_empty_syncing_when_connect_wifi">I dati sui volti verranno sincronizzati quando connesso ad una rete Wi-Fi</string>
     <string name="start_to_use_face_albumset">Attiva riconoscimento Volti</string>
     <string name="enabling_face_feature">Attivazione…</string>
     <string name="face_album_pending_enable_tip">Le foto verranno ordinate quando connesso a rete Wi-Fi</string>
@@ -149,10 +153,10 @@
     <string name="create_baby_album_later_toast">Crea un album del bambino quando vuoi nelle Impostazioni</string>
     <string name="not_remind_any_more">Non mostrare più</string>
     <string name="not_ask_any_more">Non chiedere più risposte da \"%s\"</string>
-    <string name="confirm_recommandation_face_is">" "<Data> Are you sure this is <font color="#323232"><b>%1$s</b></font>? This face will be moved to \"%2$s\" album after confirmation. </Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_are">" "<Data> Are you sure these are <font color="#323232"><b>%1$s</b></font>? These faces will be moved to \"%2$s\" album after confirmation. </Data>" "</string>
-    <string name="confirm_recommandation_face_not">" "<Data> Are you sure this is not <font color="#323232"><b>%1$s</b></font>? This face will be moved to \"%2$s\" album after confirmation. </Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_not">" "<Data> Are you sure these are not <font color="#323232"><b>%1$s</b></font>? These faces will be moved to \"%2$s\" album after confirmation. </Data>" "</string>
+    <string name="confirm_recommandation_face_is">" "<Data> Sei sicuro che sia <font color="#323232"><b>%1$s</b></font>? Questo viso verrà spostato in \"%2$s\" dopo la conferma. </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_are">" "<Data> Sei sicuro che siano <font color="#323232"><b>%1$s</b></font>? Questi visi verrà spostato in \"%2$s\" dopo la conferma. </Data>" "</string>
+    <string name="confirm_recommandation_face_not">" "<Data> Sei sicuro che non sia <font color="#323232"><b>%1$s</b></font>? Questo viso verrà spostato in \"%2$s\" album after confirmation. </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_not">" "<Data> Sei sicuro che non siano <font color="#323232"><b>%1$s</b></font>? Questi visi verrà spostato in \"%2$s\" dopo la conferma. </Data>" "</string>
     <string name="blank_app_name"/>
     <string name="set_group">Imposta gruppo</string>
     <string name="how_to_set_relation">Tieni premuto su un album perimpostare il gruppo</string>
@@ -294,8 +298,9 @@
     <string name="operation_disable_auto_upload">Disattiva backup automatico</string>
     <string name="operation_show_in_photos_tab">Mostra in home</string>
     <string name="operation_not_show_in_photos_tab">Non visualizza to nella scheda foto</string>
-    <string name="auto_upload_enable_toast">Il backup di foto e video in questo album verrà effettuato automaticamente</string>
-    <string name="auto_upload_disable_toast">Il backup di foto e video in questo album non verrà effettuato automaticamente</string>
+    <string name="auto_upload_enable_toast_long_press_menu">"Backup automatico ativato, ritorna alla pagina dell'album per vedere"</string>
+    <string name="auto_upload_disable_toast_long_press_menu">Backup automatico disattivato，aggiunto ad un altro album</string>
+    <string name="auto_upload_disable_tip">Backup automatico disattivato</string>
     <string name="to_enable_sync_dialog_title">Sincronizzazione</string>
     <string name="to_enable_sync_dialog_message">Prima attiva la sincronizzazione</string>
     <string name="to_enable_gallery_sync_dialog_message">Prima attiva la funzione di sincronizzazione galleria</string>

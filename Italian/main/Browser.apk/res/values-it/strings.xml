@@ -124,8 +124,11 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="data_traffic_prompt_title">Avviso utilizzo dati</string>
     <string name="data_traffic_prompt_message">"L'utilizzo della rete dati mobile per la navigazione aumenterà il consumo dei dati. Se superi il limite del tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
     <string name="data_traffic_prompt_change">"L'utilizzo della rete dati mobile per la visione dei video aumenterà il consumo dei dati. Se superi il limite del tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
+    <string name="data_traffic_prompt_message_short">"L'utilizzo dello streaming video su rete dati mobile potrebbe causare il superamento della sglia prevista dal tuo piano dati."</string>
     <string name="video_play_error">Errore di riprduzione video</string>
     <string name="video_buffering_percent">"Caricamento "</string>
+    <string name="video_float_window_playing">Riproduzione video</string>
+    <string name="video_float_window">PopUp</string>
     <string name="loading_tips">Trascina per aggiornare</string>
     <string name="up_to_loading_tips">Rilascia per aggiornare</string>
     <string name="miuishare_app_name">MiuiShare</string>
@@ -175,7 +178,8 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="v5_select_all">Seleziona tutti</string>
     <string name="v5_deselect_all">Deseleziona tutti</string>
     <string name="v5_edit_mode_title_empty">0 selezionati</string>
-    <string name="clear_video_download">Cancella video</string>
+    <string name="video_float_window_text">PopUp</string>
+    <string name="clear_video_download">Cancella i video</string>
     <string name="video_downloading_group">Download in corso</string>
     <string name="video_downloaded_group">Scaricati</string>
     <string name="video_download_start">Inizio downlaod video</string>
@@ -481,6 +485,9 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="delete_bookmark_warning">Eliminare il segnalibro \"%s\"?</string>
     <string name="added_to_bookmarks">Aggiunto ai segnalibri.</string>
     <string name="removed_from_bookmarks">Rimosso dai segnalibri.</string>
+    <string name="bookmark_btn_select_all">Seleziona tutto</string>
+    <string name="bookmark_btn_select_none">Deseleziona tutto</string>
+    <string name="delete_bookmark">Elimina</string>
     <string name="clear_history">Cancella cronologia</string>
     <string name="history_saved_webpage">Salva pagina</string>
     <string name="remove_from_bookmarks">Rimuovi dai segnalibri</string>
