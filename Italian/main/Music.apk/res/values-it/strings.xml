@@ -712,7 +712,7 @@ attendere o selezionare Musica Online."</string>
     <string name="next_time">Next time</string>
     <string name="restart_immediate">Restart Now</string>
     <string name="download_confirm_text">Mi Music will download and install %s</string>
-    <string name="download_confirm_button_text">Install</string>ing>
+    <string name="download_confirm_button_text">Install</string>
     <string name="milink_unavaliable_please_update">"Funzione Milink non disponibile. E' necessario aggiornare MIUI."</string>
     <string name="song_exist_in_playlist">Operation failed. Song is already existed in playlist.</string>
     <string name="othor_song_in_album">Other songs in Same Album.</string>
