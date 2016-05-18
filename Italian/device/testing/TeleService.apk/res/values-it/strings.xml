@@ -143,7 +143,6 @@ Use it for Top-up package?"</string>
     <string name="sip_system_decide">Automatico</string>
     <string name="sip_always_send_keepalive">Chiedi sempre</string>
     <string name="proxy_address">ProxyAddress</string>
-    <string name="port">Port</string>
     <string name="sip_connection_service_label">Built-in SIP calling</string>
     <string name="dialpad_0_labels"/>
     <string name="dialpad_1_labels"/>
