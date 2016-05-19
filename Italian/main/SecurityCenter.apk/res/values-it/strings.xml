@@ -28,7 +28,7 @@
     <string name="main_traffic_used">%s usati</string>
     <string name="main_traffic_used_text">usati</string>
     <string name="main_traffic_remian_text">rimanenti</string>
-    <string name="main_traffic_overlimit_text">otre</string>
+    <string name="main_traffic_overlimit_text">oltre soglia</string>
     <string name="main_traffic_used_only">%s usati</string>
     <string name="main_alert_message_no_mobile_package">Imposta limite dati</string>
     <string name="main_message_no_package_by_dual">Imposta limite dati per %s</string>
