@@ -57,12 +57,12 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="firewall_activity_lable">"Limita l'utilizzo dati per app"</string>
     <string name="firewall_applist">App</string>
     <string name="firewall_rule_group_title_mobile">Mobile</string>
-    <string name="firewall_rule_group_title_wifi">WLAN</string>
-    <string name="firewall_fragment_tab_title_nonsys">Installata</string>
-    <string name="firewall_fragment_tab_title_sys">Sistema</string>
+    <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
+    <string name="firewall_fragment_tab_title_nonsys">Scaricate</string>
+    <string name="firewall_fragment_tab_title_sys">Di sistema</string>
     <string name="firewall_fragment_sys_listempty">Vuoto</string>
     <string name="firewall_fragment_nonesys_listempty">Vuoto</string>
-    <string name="firewall_service_network_blocked">"%1$s è stato limitato dall'utilizzo delal rete %2$s"</string>
+    <string name="firewall_service_network_blocked">"%1$s è stato limitato dall'utilizzo della rete %2$s"</string>
     <string name="firewall_network_restrict_notify_title">%1$s non può utilizzare %2$s</string>
     <string name="firewall_network_restrict_notify_mobile">dati mobile</string>
     <string name="firewall_network_restrict_notify_message">Tocca per modificare le impostazioni.</string>
@@ -514,8 +514,8 @@ For more info check the message you received from your carrier"</string>
     <string name="apn_exception_summary">"Testa le impostazioni degli APN"</string>
     <string name="dns_exception_title">Controlla impostazioni DNS</string>
     <string name="dns_exception_summary">"Controlla le impostazioni DNS del router"</string>
-    <string name="wifi_exception_title">Test rete WLAN</string>
-    <string name="wifi_exception_summary">Testa le reti WLAN disponibili</string>
+    <string name="wifi_exception_title">Test rete Wi-Fi</string>
+    <string name="wifi_exception_summary">Testa le reti Wi-Fi disponibili</string>
     <string name="signal_exception_title">Test forza segnale</string>
     <string name="signal_exception_summary">"Impossibile connettersi alla rete in questa zona."</string>
     <string name="usbsharenet_exception_title">Test condivisione internet attraverso USB</string>
@@ -573,8 +573,8 @@ For more info check the message you received from your carrier"</string>
  3. Assicurati che la SIM card e lo slot per la SIM non siano danneggiati. Controlla che la SIM card sia correttamente inserita nello slot."</string>
     <string name="network_route_exception_detail">"Potrebbe esserci qualche problema con il router cui sei connesso:
 
- "<b>"1. Problemi con la rete WLAN pubblica
- "</b>"Se sei connesso ad una rete WLAN pubblica il numero di utenti connessi potrebbe rallentare la rete o creare problemi. Connettiti ad un\'altra rete e riprova.
+ "<b>"1. Problemi con la rete Wi-Fi pubblica
+ "</b>"Se sei connesso ad una rete Wi-Fi pubblica il numero di utenti connessi potrebbe rallentare la rete o creare problemi. Connettiti ad un\'altra rete e riprova.
 
  2."<b>" Problemi con il fornitore della rete internet
  "</b>"Assicurati di avere i conti apposto con il fornitore della rete internet.
@@ -1237,10 +1237,10 @@ For more info check the message you received from your carrier"</string>
     <string name="antivirus_none_engine_dialog_title">Scegli le definizioni</string>
     <string name="antivirus_none_engine_dialog_ok">OK</string>
     <string name="antivirus_privacy_dialog_title">Informativa sulla Privacy</string>
-    <string name="antivirus_privacy_dialog_summary">Questa caratteristica cifra e carica il ID del dispositivo sul server (%s) di AVL e Tencent.</string>
+    <string name="antivirus_privacy_dialog_summary">"Questa caratteristica cifra e carica l'ID del dispositivo sul server (%s) di AVL e Tencent."</string>
     <string name="antivirus_privacy_dialog_summary_link">visualizza le Privacy Policy</string>
     <string name="antivirus_privacy_dialog_cloudscan">Carica i nomi e i dettagli delle applicazioni</string>
-    <string name="antivirus_privacy_dialog_cloudscan_description">Carica e scansiona i nomi e dettagli delle applicazioni utilizzando le definizioni dei virus online.</string>
+    <string name="antivirus_privacy_dialog_cloudscan_description">Carica e scansiona i nomi e dettagli delle app utilizzando le definizioni dei virus online.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
     <string name="antivirus_more_engine_dialog_title">Attenzione</string>
     <string name="antivirus_more_engine_dialog_summary">"L'utilizzo di più definizioni virus può richiedere maggior tempo per la scansione."</string>
@@ -1257,15 +1257,15 @@ For more info check the message you received from your carrier"</string>
     <string name="Setting_lock">Impostazioni</string>
     <string name="btn_jump">Salta</string>
     <string name="btn_lock">Aggiungi blocco</string>
-    <string name="app_name">App lock</string>
+    <string name="app_name">Blocco App</string>
     <string name="text_lock_info">Disegna la sequenza di sblocco</string>
     <string name="select_pattern">Scegli sequenza</string>
-    <string name="notification_item">Proteggi le app selezionate con App lock</string>
-    <string name="ac_enable_title">Attiva App lock</string>
+    <string name="notification_item">Proteggi le app selezionate con Blocco App</string>
+    <string name="ac_enable_title">Attiva Blocco App</string>
     <string name="lock_mode_title">Impostazioni di blocco</string>
     <string name="after_the_lock_screen">"L'app è bloccata con lo schermo, puoi modificare l'impostazione nell impostazioni di App Lock."</string>
-    <string name="ac_firstUseApplock_title">"E' necessaria una password per accedere alle app selezionate</string>
-    <string name="ac_firstUseApplock_subTitle">Usa App Lock per proteggere la tua privacy</string>
+    <string name="ac_firstUseApplock_title">"È necessaria una password per accedere alle app selezionate</string>
+    <string name="ac_firstUseApplock_subTitle">Usa Blocco App per proteggere la tua privacy</string>
     <string name="notification_subtitle">Tocca per attivare</string>
     <string name="lockpattern_tutorial_cancel_label">Annulla</string>
     <string name="lockpattern_tutorial_continue_label">Avanti</string>
@@ -1303,16 +1303,16 @@ o inserisci la password"</string>
     <string name="lockpattern_pattern_confirmed_header">La tua nuova sequenza di sblocco</string>
     <string name="lockpassword_confirm_your_password_header">Conferma password</string>
     <string name="lock_settings_title">Lockscreen e password</string>
-    <string name="access_control_recording_intro_header">Disegna sequenza per aggiungere App Lock</string>
+    <string name="access_control_recording_intro_header">Disegna sequenza per aggiungere Blocco App</string>
     <string name="forget_pattern"><u>Sequenza dimenticata?</u></string>
     <string name="recommend_app">App consigliate</string>
     <string name="fingerprint_to_lock">Sblocco con impronta digitale</string>
     <string name="fingerprint_verification">Verifica impronta</string>
     <string name="system_application">App di sistema</string>
     <string name="third_application">App di terze parti</string>
-    <string name="security_app_lock">App Lock</string>
+    <string name="security_app_lock">Blocco App</string>
     <string name="fingerprint_verification_message">"Verifica l'impronta attuale per iniziare ad utilizzare questa funzione."</string>
-    <string name="finger_remind_message">App Lock supporta lo sblocco con impronta digitale. Aggiungere impronta?</string>
+    <string name="finger_remind_message">Blocco Appsupporta lo sblocco con impronta digitale. Aggiungere impronta?</string>
     <string name="fingerprint_not_remind">Non chiedere più</string>
     <string name="fingerprint_verify_succeed">Verificata con successo</string>
     <string name="fingerprint_verify_failed">Impossibile verificare</string>
