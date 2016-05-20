@@ -21,11 +21,11 @@ Leggi questo documento per la tastiera: "</string>
     <string name="other_settings_user_experience_summary">"Contribuirai al miglioramento di MIUI con l'invio di dati anonimi di utilizzo"</string>
     <string name="other_settings_user_experience_summary1">(Vedi privacy)</string>
     <string name="other_settings_permission">Permessi MIUI </string>
-    <string name="other_settings_permission_summary">Give Mi Cloud, Phone, and other core features and services the permissions they require to work as designed</string>
-    <string name="alert_dialog_title">Some services may misbehave...</string>
-    <string name="alert_dialog_msg">"Some of MIUI's core features and services won't be able to work as intended without these permissions (e.g. your device won't be able to display contact info during a call). If you disable these permissions, MIUI's apps will ask for individual permissions when they're required for a specific activity."</string>
-    <string name="alert_dialog_btn_close">Disable</string>
-    <string name="alert_dialog_btn_open">Cancel</string>
+    <string name="other_settings_permission_summary">Concedi a Mi Cloud, Telefono, ed altre funzioni e servizi di sistema, i permessi che richiedono per funzionare correttamente</string>
+    <string name="alert_dialog_title">Alcuni servizi potrebbero non funzionare correttamente...</string>
+    <string name="alert_dialog_msg">Alcune delle funzioni e dei servizi di sistema di MIUI non potranno funzionare correttamente senza questi permessi (es: il tuo dispositivo non potrà mostrare le informazioni dei contatti duante una chiamata). Se disattivi questi permessi, le app MIUI ne faranno richiesta individualmente quando necessario per specifiche attività.</string>
+    <string name="alert_dialog_btn_close">Disattiva</string>
+    <string name="alert_dialog_btn_open">Annulla</string>
     <string name="next">Avanti</string>
     <string name="skip_underline"><u>Salta questo passaggio</u></string>
     <string name="sim_dectection_next">Continua</string>
