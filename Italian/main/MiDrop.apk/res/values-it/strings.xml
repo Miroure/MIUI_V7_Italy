@@ -90,4 +90,5 @@
     <string name="intro_page2_choose_files">Scegli i file e tocca \"Condividi\"</string>
     <string name="intro_page3_choose_midrop">Seleziona \"Mi Drop\"</string>
     <string name="intro_page3_choose_midrop2">File inviati immediatamente!</string>
+    <string name="runtime_permission_ungranted">Impossibile utilizzare Mi Drop per mancanza di permessi</string>
 </resources>

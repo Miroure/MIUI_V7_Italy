@@ -122,6 +122,7 @@ Sotto soglia: %1$s | %2$s usati"</string>
     <string name="pref_leisure_no_overlay">Attivato</string>
     <string name="pref_leisure_not_opened">Disattivato</string>
     <string name="pref_new_installed_preconfig_title">Impostazioni predefinite per le nuove app</string>
+    <string name="pref_mi_sim_settings">Impostazioni Mi SIM</string>
     <string name="pref_manual_adjust">Imposta utilizzo dati manualmente</string>
     <string name="pref_daily_adjust">Imposta limite soglia dati</string>
     <string name="pref_free_adjust">Imposta disattivazione limite dati</string>
@@ -277,6 +278,8 @@ I dati rimaennti includono dati che sono stati erogati il mese precedente."</str
     <string name="operator_number_cmcc">10086</string>
     <string name="operator_number_unicom">10010</string>
     <string name="operator_number_telcom">10000</string>
+    <string name="operator_mi_sim">Mi SIM</string>
+    <string name="warning_open_mi_sim">Attiva Mi SIM</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="datausage_purchase_title_pkglist">Ricarica</string>
@@ -1267,6 +1270,9 @@ For more info check the message you received from your carrier"</string>
     <string name="ac_firstUseApplock_title">"E' necessaria una password per accedere alle app selezionate</string>
     <string name="ac_firstUseApplock_subTitle">Usa App Lock per proteggere la tua privacy</string>
     <string name="notification_subtitle">Tocca per attivare</string>
+    <string name="ac_enter_applock">Apri App lock</string>
+    <string name="ac_summaryOn">Attivato, è necessaria una password per aprire le applicazioni</string>
+    <string name="ac_summaryOff">Disattivato, non serve una password per aprire le applicazioni</string>
     <string name="lockpattern_tutorial_cancel_label">Annulla</string>
     <string name="lockpattern_tutorial_continue_label">Avanti</string>
     <string name="lockpattern_retry_button_text">Disegna di nuovo</string>

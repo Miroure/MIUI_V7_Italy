@@ -32,6 +32,8 @@
     <string name="copy">Copia</string>
     <string name="paste">Incolla</string>
     <string name="replace">Sostituisci</string>
+    <string name="frequent_phrases">Frasi comuni</string>
+    <string name="add_frequent_phrases">Aggiungi frase</string>
     <string name="alwaysUsePrompt">Ricorda questa scelta</string>
     <string name="auto_start_warning_title">"Vuoi consentire l'avvio automatico di %s in futuro?"</string>
     <string name="auto_start_warning_allow">Consenti</string>

@@ -77,6 +77,7 @@ Localizza, blocca o cancella il dispositivo da "</string>
     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_dspt_provision_3">" . Puoi attivare questa funzione in qualsiasi momento in Impostazioni."</string>
     <string name="find_device_dspt_provision_4">Se cambi SIM verrà inviato automaticamente un SMS per riattivare questa funzione.</string>
+    <string name="find_device_send_sms_alert">Se cambi SIM, potrebbe essere inviato automaticamente un altro SMS perattivare questa funzione.</string>
     <string name="mx_dspt_provision">"Mi Message consente di inviare messaggi ad altri utenti MIUI senza incorrere in spese di SMS.
 
 È possibile disattivare o attivare questa funzione in qualsiasi momento in Impostazioni. "</string>
@@ -243,9 +244,8 @@ Tocca il tasto Impostazioni per altre opzioni"</string>
     <string name="micloud_main_network_abnormal">Impossibile collegarsi alla rete</string>
     <string name="micloud_main_sync_init">Recupero informazioni</string>
     <string name="micloud_main_battery_low">Batteria insufficiente per sincronizzare</string>
-    <string name="micloud_main_battery_message">"Metti in carica il dispositivo per sincronizzare
-%d items"</string>
-    <string name="micloud_main_syncing">Sincronizzazione dati…</string>
+    <string name="micloud_main_battery_message">Metti in carica il dispositivo per sincronizzare</string>
+    <string name="micloud_main_syncing">Sincronizzazione…</string>
     <string name="micloud_main_last_sync_time">Ultima sincronizzazione %s</string>
     <string name="micloud_main_synced_data_count">%d dati sono sincronizzati</string>
     <string name="micloud_main_wlan_sync_data_count">%d dati verranno sincronizzati con il Wi-Fi</string>
@@ -256,6 +256,9 @@ Tocca il tasto Impostazioni per altre opzioni"</string>
     <string name="micloud_main_memory_low_title">Spazio di archiviazione insufficiente</string>
     <string name="micloud_main_memory_low_message">Per poter sincronizzare, elimina alcuni elementi in Mi Cloud.</string>
     <string name="micloud_main_clear_now">Elimina</string>
+    <string name="micloud_main_query_error_title">Impossibile recuperare i dati di sincronizzazione</string>
+    <string name="micloud_main_query_error_message">Non è possibile garantire che la sincronizzazione sia stata completata</string>
+    <string name="micloud_main_not_sync">%d elementiin attesa di sincronizzazione</string
     <string name="micloud_detail_syncing">Sincronizzazione</string>
     <string name="micloud_detail_upload_syncing">Upload %s</string>
     <string name="micloud_detail_download_syncing">Download %s</string>
@@ -265,11 +268,22 @@ Tocca il tasto Impostazioni per altre opzioni"</string>
     <string name="micloud_detail_lastest">Sincronizzato</string>
     <string name="micloud_detail_lastest_with_off">Sincronizzato</string>
     <string name="micloud_detail_not_synced">Non sincronizzato</string>
-    <string name="micloud_detail_preference_syncing">Sincronizzazione</string>
-    <string name="micloud_detail_preference_wlan">Sincronizza con Wi-Fi</string>
+    <string name="micloud_detail_preference_sync_items">Elementi</string>
     <string name="micloud_detail_wlan">%d dati non sincronizzati</string>
     <string name="micloud_detail_wlan_contact">%d foto contatti non sincronizzati</string>
     <string name="micloud_detail_wlan_mms">%d MMS non sincronizzati</string>
+    <string name="micloud_detail_query_error">Impossibile ottenere lo stato della sincronizzazione</string>
+    <string name="micloud_detail_query_error_title">Impossibile ottenere lo stato della sincronizzazione</string>
+    <string name="micloud_detail_query_error_detail">Impossibile verificare lo stato della sincronizzazione. Si prega di contattare gli sviluppatori.</string>
+    <string name="micloud_detail_not_sync">%d in attesa di sincronizzazione</string>
+    <string name="micloud_detail_force_sync">sincronizza adesso</string>
+    <string name="micloud_detail_ok">OK</string>
+    <string name="micloud_detail_do_not_sync">Non sincronizzare</string>
+    <string name="micloud_detail_sync_now">Sinconizza adesso</string>
+    <string name="micloud_detail_battery_low_title">Batteria troppo scarica</string>
+    <string name="micloud_detail_battery_low_message">Batteria troppo scarica. Ricarica il telefono e sincronizza.</string>
+    <string name="micloud_detail_depend_wifi_title">Serve Wi-Fi</string>
+    <string name="micloud_detail_depend_wifi_message">Collegati alla rete Wi-Fi o verifica le impostazioni di sincronizzazione.</string>
     <string name="micloud_check_sim_title">"Sembra che tu abbia cambiato SIM. Accedi
 al tuo Mi Account per riattivare Mi Cloud."</string>
     <string name="micloud_check_sim_notify_title">Riattivazione Mi Cloud</string>
@@ -360,6 +374,7 @@ Ultimo backup: %2$s"</string>
     <string name="micloud_storage">Archiviazione</string>
     <string name="micloud_member">Abbonamento Mi Cloud</string>
     <string name="micloud_buy_member">Aggiorna abbonamento</string>
+    <string name="micloud_website">Dati cloud</string>
     <string name="micloud_member_advantage">Ottieni altro spazio di archiviazione.</string>
     <string name="micloud_main_title_sync_fail">Impossibile sincronizzare</string>
     <string name="micloud_main_title_sync_on_wifi">Utilizza Wi-Fi</string>
@@ -414,6 +429,11 @@ Ultimo backup: %2$s"</string>
     <string name="micloud_notif_content_battery_low">Livello batteria troppo basso.</string>
     <string name="micloud_notif_title_sync_with_off">Sincronizza con Mi Cloud</string>
     <string name="micloud_notif_content_sync_with_off">Tocca per sincronizzare adesso il dispositivo</string>
+    <string name="micloud_notif_title_sync_progress">Sincronizzazione</string>
+    <string name="micloud_notif_title_sync_finish">Sincronizzato</string>
+    <string name="micloud_notif_content_sync_finish">Account</string>
+    <string name="micloud_notif_title_sync_not_finish">Non sincronizzato</string>
+    <string name="micloud_notif_content_sync_not_finish">Dettagli</string>
     <string name="micloud_notif_title_clipboard_push">COntenuto copiato negli appunti</string>
     <string name="micloud_notif_content_clipboard_push">Puoi incollarlo ovunque.</string>
     <string name="micloud_find_device_guide_title">"Accedi a %s per localizzare, bloccare o formattare il tuo dispositivo."</string>

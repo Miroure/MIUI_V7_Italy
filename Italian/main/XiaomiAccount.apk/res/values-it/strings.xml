@@ -93,7 +93,6 @@ Per attivare il tuo account, segui il
     <string name="passport_login_notice">Accesso in corso…</string>
     <string name="passport_login_check_find_device">Verifica stato Trova Dispositivo…</string>
     <string name="passport_login_check_find_device_failed_title">Impossibile verificare lo stato di Trova Telefono</string>
-    <string name="passport_login_check_find_device_failed_message">Controlla la tua connessione.</string>
     <string name="passport_login_find_device_bind">Questo dispositivo è associato ad un Mi Account esistente  ID (%s). Accedi per attivare il dispositivo.</string>
     <string name="passport_retry">Avanti</string>
     <string name="passport_back">Indietro</string>
@@ -170,7 +169,8 @@ Per attivare il tuo account, segui il
     <string name="account">Account</string>
     <string name="micloud_account_name">Mi Account</string>
     <string name="logout_failed">Impossibile uscire</string>
-    <string name="timeout_retry">Richiesta scaduta, riprova.</string>
+    <string name="turning_off_find_device">Disattivazione Trova Telefono…</string>
+    <string name="turn_off_find_device_failed_title">Impossibile disattivare Trova Telefono</string>
     <string name="no_response_retry">Nessuna risposta, riprova.</string>
     <string name="alert_title_remove_account">Elimina account</string>
     <string name="remove_account_notice">Cosa vuoi fare con i dati precedentemente sincronizzati (contatti, registro delle chiamate e note)?</string>
@@ -180,6 +180,7 @@ Per attivare il tuo account, segui il
     <string name="wipe_data_dialog_title">"Alcuni contenuti non sono stati sincronizzati"</string>
     <string name="wipe_data_dialog_msg">%s contenuti saranno persi se prosegui.</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
+    <string name="delete_bank_card_failed">Pagamento fallito, riprovare</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">Autorizza Sina Weibo</string>
     <string name="bind_weibo_description">Trova contatti telefono, amici ed altre informazioni direttamente dal tuo account</string>
@@ -221,6 +222,7 @@ Per attivare il tuo account, segui il
     <string name="account_user_birthday">Compleanno</string>
     <string name="account_user_name_dialog_title">Inserisci nome utente</string>
     <string name="account_empty_user_name">Inserisci il nome utente del tuo Mi Account</string>
+    <string name="account_error_all_space_user_name">Il nome non può essere composto solo da spazi</string>
     <string name="account_error_shorter_user_name">Il nome deve essere più lungo di 2 caratteri</string>
     <string name="account_error_longer_user_name">Il nome non può superare i 20 caratteri</string>
     <string name="account_error_user_birthday">La data di compleanno indicata non è valida</string>
@@ -350,4 +352,18 @@ Assicurati di ricordare le risposte."</string>
     <string name="cta_declaration_ignore">Ignora</string>
     <string name="cta_declaration_agree_and_continue">OK</string>
     <string name="cta_declaration_exit">Esci</string>
+    <string name="find_device_access_denied">Impossibile recuperare lo stato, accesso negato</string>
+    <string name="find_device_account_error">"Impossibile recuperarelo stato a causa di un errore con l'account"</string>
+    <string name="find_device_null_credential_error">Impossibile recuperare le informazioni sul dispositivo, contatta il servizio clienti Xiaomi</string>
+    <string name="find_device_request_prepare_error">Impossibile recuperare lo stato, riprova più tadi</string>
+    <string name="find_device_request_error">Impossibile richiedere informazioni sullo stato, riprova più tardi</string>
+    <string name="find_device_bad_response_error">Impossibile recuperare lo stato, riprova più tardi</string>
+    <string name="find_device_io_error">Impossibile collegarsi alla rete</string>
+    <string name="find_device_interrupted">"L'operazione è stat ainterrotta, riprova più tardi"</string>
+    <string name="find_device_operation_failed_error">Si è verificato un errore</string>
+    <string name="find_device_unknown_error">Impossibile recuperare lo stato, riprova più tardi</string>
+    <string name="find_device_error_password_recently_changed">Hai modificato al password negli ultimi 3 giorni. Impossibile disattivare Trova Telefono per motivi di sicurezza.</string>
+    <string name="find_device_error_password_not_confirmed">Impossibile disattivare Trova Telefono. Inserisci il tuo Mi Account</string>
+    <string name="find_device_operation_failed_error_unknown">Si è verificato un errore, riprova più tardi</string>
+    <string name="find_device_remote_exception">Errore RPC</string>
 </resources>
