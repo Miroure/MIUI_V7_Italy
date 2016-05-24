@@ -1318,13 +1318,13 @@ o inserisci la password"</string>
     <string name="third_application">App di terze parti</string>
     <string name="security_app_lock">Blocco App</string>
     <string name="fingerprint_verification_message">"Verifica l'impronta attuale per iniziare ad utilizzare questa funzione."</string>
-    <string name="finger_remind_message">Blocco Appsupporta lo sblocco con impronta digitale. Aggiungere impronta?</string>
+    <string name="finger_remind_message">Blocco App supporta lo sblocco con impronta digitale. Aggiungi impronta?</string>
     <string name="fingerprint_not_remind">Non chiedere più</string>
     <string name="fingerprint_verify_succeed">Verificata con successo</string>
     <string name="fingerprint_verify_failed">Impossibile verificare</string>
     <string name="fingerprint_verify_try_agin">Impossibile scansionare,prova di nuovo</string>
     <string name="cancal_to_setting_fingerprint">Annulla</string>
-    <string name="go_to_setting_fingerprint">Vai nell eimpostazioni</string>
+    <string name="go_to_setting_fingerprint">Vai nelle impostazioni</string>
     <string name="fingerprint_remind_dialog_title">Sblocco con impronta</string>
     <string name="confirm_fingerprint_msg">Posiziona il dito sul lettore di impronta</string>
     <string name="fingerprint_identify_msg">Scansione impronta…</string>
