@@ -133,7 +133,7 @@
     <string name="config_suggest_suffix_title">Risparmio batteria MIUI (consigliato)</string>
     <string name="config_no_restrict_title">Nessuna limitazione</string>
     <string name="config_restrict_function_title">Limita applicazioni in background</string>
-    <string name="config_restrict_running_title">LImita attività in background</string>
+    <string name="config_restrict_running_title">Limita attività in background</string>
     <string name="location_mode_title">Rilevazione posizione in background</string>
     <string name="location_enable_title">Consenti</string>
     <string name="location_disable_title">Nega</string>
@@ -144,13 +144,13 @@
 Il sistema di risparmio batteria gestirà le app importanti in modo selettivo."</string>
     <string name="config_no_restrict_description">"Il Risparmio Batteria non limiterà l'attività dell'app"</string>
     <string name="config_restrict_function_description">"Alcune funzioni (es. notifiche push)potrebbero essere coinvolte, ma l'app non verrà chiusa"</string>
-    <string name="config_restrict_running_description">Le app verranno chiuse per risprmiare batteria</string>
+    <string name="config_restrict_running_description">Le app verranno chiuse per risparmiare batteria</string>
     <string name="power_checker_title">PowerChecker</string>
     <string name="power_checker_running_group_title">In esecuzione</string>
     <string name="power_checker_recent_group_title">Recenti</string>
     <string name="power_checker_running_btn_title">Termina processo</string>
     <string name="power_checker_recent_btn_title">Impostazioni batteria</string>
-    <string name="fragment_tab_title_nonsys">App instalalte</string>
+    <string name="fragment_tab_title_nonsys">App installate</string>
     <string name="fragment_tab_title_sys">App di sistema</string>
     <string name="ragment_sys_listempty">Nessuna app di sistema</string>
     <string name="fragment_nonesys_listempty">Nessuna app installata</string>

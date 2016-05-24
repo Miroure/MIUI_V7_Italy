@@ -662,7 +662,7 @@ e non perderai mai le ultime novità!"</string>
     <string name="installing">Installazione…</string>
     <string name="video_ad_download">Installa</string>
     <string name="need_read_storage_permission">File Explorer richiede i permessi per accedere ala memoria del dispositivo</string>
-    <string name="enable_documentsui">Attiva prima %s in Impostazioni/App instalalte</string>
+    <string name="enable_documentsui">Attiva prima %s in Impostazioni/App installate</string>
     <string name="not_installed_documentsui">DocumentsUI non installato</string>
     <string name="title_enable_documentsui">Attiva DocumentsUI</string>
     <string name="error_contains_sharer_path">"Impossibile crittografare i file nella cartella /MIUI/Gallery/cloud/sharer. Sposta i file in un'altra cartella e riprova"</string>
