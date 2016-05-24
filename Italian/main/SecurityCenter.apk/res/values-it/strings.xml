@@ -1290,9 +1290,9 @@ For more info check the message you received from your carrier"</string>
     <string name="lockscreen_glogin_submit_button">Accedi</string>
     <string name="toast_lockscreen_glogin_empty_password">Password richiesta</string>
     <string name="lockscreen_glogin_checking_password">Verifica…</string>
-    <string name="passwordIncorrect">Nomeutente o password sbagliate</string>
+    <string name="passwordIncorrect">Nome utente o password sbagliate</string>
     <string name="help_label">Aiuto</string>
-    <string name="access_control_need_to_unlock">"Sblocco con l'impronta digitale
+    <string name="access_control_need_to_unlock">"Sblocca con l'impronta digitale
 o inserisci la password"</string>
     <string name="access_control_need_to_unlock_nofingerprint">Inserisci password di sblocco</string>
     <string name="access_control_need_password">"%s blocco aggiunta con successo
