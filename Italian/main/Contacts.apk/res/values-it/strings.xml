@@ -658,7 +658,7 @@ Le schede contatti sono disattivate"</string>
     <string name="miprofile_alertdialog_title">Inserisci nome</string>
     <string name="miprofile_alertdialog_message">Mostra questo nome ai contatti quando chiedi di scambiare le schede.</string>
     <string name="miprofile_alertdialog_edit">Inserisci nome</string>
-    <string name="miprofile_switch_off_alertdialog_message">Non potrai scambiare schede contatti con altre persone. Il tuoi contatti non potranno vedere il tuo profilo video."</string>
+    <string name="miprofile_switch_off_alertdialog_message">Non potrai scambiare schede contatti con altre persone. I tuoi contatti non potranno vedere il tuo profilo video."</string>
     <string name="miprofile_bind_account_alertdialog_title">Aggiungi numero di telefono</string>
     <string name="miprofile_bind_account_alertdialog_message">Devi aggiungere il numero di questo dispositivo al tuo Mi Account per utilizzare questa funzione."</string>
     <string name="miprofile_bind_account_alertdialog_positive">Aggiungi numero</string>
@@ -1108,7 +1108,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="sim_error_email_too_long">Email troppo lunga</string>
     <string name="sim_error_email_full">"Non c'è abbastanza spazio sulla SIM"</string>
     <string name="sim_error_anr_full">"Non c'è abbastanza spazio sulla SIM"</string>
-    <string name="sim_error_password_error">La password che hai inserito non è valida</string>
+    <string name="sim_error_password_error">La password inserita non è valida</string>
     <string name="voip_name">Mi Voice</string>
     <string name="voip_contacts_entry">Mi Voice</string>
     <string name="voip_shortcut_name">Mi Voice</string>
@@ -1163,22 +1163,22 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="voip_recommend_msg">Tocca per utilizzare Mi Voice</string>
     <string name="cloud_state_sync_finished">Sincronizzato con Mi Cloud</string>
     <string name="cloud_state_syncing">Sincronizzo con Mi Cloud</string>
-    <string name="cloud_state_loading">Solo un attimo…</string>
+    <string name="cloud_state_loading">Attendi…</string>
     <string name="cloud_state_disabled">La sincronizzazione con Mi Cloud è disattivata</string>
     <string name="more_call_logs">Per altri dati sul Registro chiamate vai su <u>http://i.mi.com</u></string>
     <string name="transfer_accounts">Trasferisci account</string>
     <string name="phone_number_too_long_toast">Numero troppo lungo</string>
-    <string name="dialer_menu_description">Tocca per vedereil tastierino</string>
+    <string name="dialer_menu_description">Tocca per mostrare il tastierino</string>
     <string name="back_view_description">Tocca per tornare indietro</string>
     <string name="voip_audio_description">Tocca per effettuare una chiamata VoIP</string>
     <string name="voip_video_description">Tocca per effettuate una video chiamata VoIP</string>
     <string name="menu_newContactButton">Aggiungi</string>
     <string name="unable_get_device_id">Impossibile recuperare IMEI</string>
     <string name="missing_required_permission">Hai disattivato un permesso necessario.</string>
-    <string name="hybrid_network_unavaliable">"Impossibile colelgarsi alla rete"</string>
+    <string name="hybrid_network_unavaliable">"Impossibile collegarsi alla rete"</string>
     <string name="hybrid_data_error">Si è verificato un errore</string>
     <string name="hybrid_locating_fail">Impossibile trovare la tua posizione</string>
     <string name="hybrid_check_network">Impostazioni di rete</string>
     <string name="hybrid_service_unavailiable">Servizio non disponibile</string>
-    <string name="hybrid_try_again">Prova di nuovo</string>
+    <string name="hybrid_try_again">Riprova</string>
 </resources>

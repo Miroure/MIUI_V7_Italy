@@ -34,5 +34,5 @@
     <string name="empty">Nessun elemento</string>
     <string name="toast_no_application">Impossibile aprire il file</string>
     <string name="toast_failed_delete">Impossibile eliminare alcuni documenti</string>
-    <string name="share_via">Condividi tramite</string>
+    <string name="share_via">Condividi con</string>
 </resources>
