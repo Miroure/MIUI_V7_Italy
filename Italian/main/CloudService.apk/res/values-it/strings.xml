@@ -137,6 +137,7 @@ Se cambia la SIM, deve essere inviato un nuovo SMS di attivazione."</string>
     <string name="micloud_single_dspt">Utilizza Mi Cloud per sincronizzare i dati, posizionare il tuo telefono e condividere file con gli amici.</string>
     <string name="micloud_proceed">Continua</string>
     <string name="master_alert_notif_title">Ultima sincronizzazione: %s giorni fa</string>
+    <string name="master_alert_notif_content">Impossibile sincronizzare</string>
     <string name="sub_alert_notif_title">Sincronizzazione disabilitata</string>
     <string name="alert_notif_title_dspt">Abilita la sincronizzazione per tenere aggiornati i tuoi contenuti su Mi Cloud.</string>
     <string name="noRemind">Non ricordarmelo più</string>
@@ -460,4 +461,7 @@ Ultimo backup: %2$s"</string>
     <string name="soundrecorder_sync_records">Sincronizza con Mi Cloud</string>
     <string name="soundrecorder_sync_only_in_wifi">Usa solo Wi-Fi per sincronizzare</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">Non verrà utilizzata la rete dati mobile per download e upload delle registrazioni</string>
+    <string name="micloud_request_permission_title">Mi Cloud richiede i permessi</string>
+    <string name="micloud_request_permission_content">Mi Cloud ha necessità dei permessi per la sincronizzazione dei dati. Consenti a Mi Cloud di accedere a Calendario, Contactti, Mi Account, stato SIM, registro chiamate e messaggi.</string>
+    <string name="micloud_request_permission_confirm">Ho capito</string>
 </resources>

@@ -67,7 +67,6 @@
     <string name="account_setup_exchange_certificate_title">Certificato client</string>
     <string name="account_setup_exchange_device_id_label">ID dispositivo mobile</string>
     <string name="account_setup_exchange_no_certificate">Nessuno</string>
-    <string name="account_setup_failed_auth_required">I metodi di autenticazione non sono supportati dal server.</string>
     <string name="account_setup_failed_certificate_inaccessible">Certificato non valido o non accessibile.</string>
     <string name="account_setup_failed_certificate_required">Certificato client richiesto. Connettersi al server con certificato client?</string>
     <string name="account_setup_failed_check_credentials_message">Il server ha risposto con un errore. Controlla nome utente e password e riprova.</string>
@@ -251,6 +250,7 @@
     <string name="contact_list_add_btn">Aggiungi</string>
     <string name="contact_list_search_hint">Ricerca contatti</string>
     <string name="contact_list_title">Lista contatti</string>
+    <string name="contact_permission_error">Accesso ai contatti limitato</string>
     <string name="contact_select">Seleziona contatti</string>
     <string name="content_description">%1$s circa %2$s, %3$s su %4$s, %5$s</string>
     <string name="content_description_today">%1$s circa %2$s, %3$s a %4$s, %5$s</string>
@@ -346,6 +346,9 @@
     <string name="expand_recipient_details">Apri dettagli destinatario</string>
     <string name="fail_get_email_message">Recupero messaggio fallito.</string>
     <string name="failed">"Impossibile caricare immagine"</string>
+    <string name="failed_read_phone_state_permission">"Mancata autorizzazione per l'accesso allo stato del telefono"</string>
+    <string name="failed_read_write_calendar_permission">"Mancata autorizzazione per l'accesso al calendario"</string>
+    <string name="failed_read_write_contacts_permission">"Mancata autorizzazione per l'accesso ai contatti"</string>
     <string name="feedback">Invia feedback</string>
     <string name="feedback_body">Feedback information</string>
     <string name="feedback_sent">Grazie per il tuo feedback</string>

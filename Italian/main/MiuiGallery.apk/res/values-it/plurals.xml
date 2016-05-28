@@ -56,6 +56,30 @@
         <item quantity="other">%1$d elementi | %2$s</item>
         <item quantity="one">%1$d elemento | %2$s</item>
     </plurals>
+    <plurals name="backuped">
+        <item quantity="other">Backup eseguito per %1$d elementi</item>
+        <item quantity="one">Backup eseguito per %1$d elemento</item>
+    </plurals>
+    <plurals name="backup_waiting">
+        <item quantity="other">%1$d elementi in attesa di backup</item>
+        <item quantity="one">%1$d elemento in attesa di backup</item>
+    </plurals>
+    <plurals name="network_unsatisfied">
+        <item quantity="other">Errore di rete. %1$d elementi in attesa di backup</item>
+        <item quantity="one">Errore di rete. %1$d elemento in attesa di backup</item>
+    </plurals>
+    <plurals name="sync_off">
+        <item quantity="other">Sincronizzazione disattivata. %1$d elementi in attesa di backup</item>
+        <item quantity="one">Sincronizzazione disattivata. %1$d elemento in attesa di backup</item>
+    </plurals>
+    <plurals name="cloud_space_full">
+        <item quantity="other">Spazio esaurito su Mi Cloud. %1$d elementi in attesa di backup</item>
+        <item quantity="one">Spazio esaurito su Mi Cloud. %1$d elemento in attesa di backup</item>
+    </plurals>
+    <plurals name="local_space_full">
+        <item quantity="other">Spazio interno non sufficiente. %1$d elementi in attesa di backup</item>
+        <item quantity="one">Spazio interno non sufficiente. %1$d elemento in attesa di backup</item>
+    </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d foto in attesa di sincronizzazione</item>
         <item quantity="one">1 foto da caricare</item>
